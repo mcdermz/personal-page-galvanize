@@ -83,4 +83,4 @@ Congratulations! By completing the assessment, you've demonstrated a high degree
 #### [⇐ Previous](05_atom.md) | [Next ⇒](07_algebra.md)
 
 [learn-html-css]: http://learn.shayhowe.com/html-css/building-your-first-web-page/
-[upload]: https://github.com/gSchool/fs-precourse/upload/master
+[upload]: https://github.com/gSchool/fs-precourse/upload/personal

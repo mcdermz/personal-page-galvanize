@@ -10,13 +10,15 @@ In this chapter, your objective is to demonstrate familiarity with JavaScript. T
 
 You can pick up JavaScript for Kids from a number of bookstores, though you'll receive a **40% discount** by using the `JAVASCRIPTKIDS40` coupon code when purchasing directly through No Starch Press.
 
+As you read each chapter, type out and run all the code examples you find. While it may take you longer to complete each chapter, you'll retain so much more of the information. That's because reading code and writing code are two very different skills that both require practice. Once you reach the end of a chapter, complete all of the programming challenges. Most of them will ask you to extend the programs you built along the way.
+
 [JavaScript for Kids][javascript-kids]
 
 [![](images/javascript.png)][javascript-kids]
 
 ### Assessment
 
-In chapter 8 of JavaScript for Kids, there's a Programming Challenge that asks you to write a hangman game using JavaScript functions. Your task is to use the code provided by the author on page 139 and 140 as a blueprint to create such a game.
+In chapter 8 of JavaScript for Kids, there's a programming challenge that asks you to write a hangman game using JavaScript functions. Your task is to use the code provided by the author on page 139 and 140 as a blueprint to create such a game.
 
 Start off by creating a `hangman.html` file and embed the author's blueprint code inside a `<script>` tag. Once the structure is in place, write the code for the following functions.
 

@@ -10,7 +10,7 @@ In this chapter, your objective is to demonstrate familiarity with JavaScript. T
 
 You can pick up JavaScript for Kids from a number of bookstores, though you'll receive a **40% discount** by using the `JAVASCRIPTKIDS40` coupon code when purchasing directly through No Starch Press.
 
-As you read each chapter, type out and run all the code examples you find. While it may take you longer to complete each chapter, you'll retain so much more of the information. That's because reading code and writing code are two very different skills that both require practice. Once you reach the end of a chapter, complete all of the programming challenges. Most of them will ask you to extend the programs you built along the way.
+As you read each chapter, type out and run all the code examples you find. Though it may take you longer to complete each chapter, you'll retain so much more of the information. That's because reading code and writing code are two very different skills that both require practice. Once you reach the end of a chapter, complete all of the programming challenges. Most of them will ask you to extend the programs you built along the way.
 
 [JavaScript for Kids][javascript-kids]
 

@@ -42,7 +42,7 @@ If your computer is not up to the task, we recommend that you make an appointmen
 
 ## Materials
 
-Most of this precourse uses high-quality learning resources that others provide free of charge on the Internet. When it comes to JavaScript, there are a ton of "learn to code" websites that provide safe coding sandboxes to test the waters. While these are great resources for learning the individual pieces of full stack development, we've found that students only begin to see how all the pieces fit together when they start coding websites from scratch.
+Most of this precourse uses high-quality learning resources that others provide free of charge on the Internet. When it comes to JavaScript, there are a ton of "learn to code" websites that provide safe coding sandboxes to test the waters. While these are great resources for learning the individual pieces of full stack development, we've found that students only begin to see how all the pieces fit together when they start coding JavaScript-enhanced websites from scratch.
 
 We've found that **JavaScript for Kids** approaches the first steps of learning JavaScript the right way by building things from scratch. In order to complete the precourse chapter on JavaScript, you'll need to pick up this book.
 

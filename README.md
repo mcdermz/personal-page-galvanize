@@ -40,7 +40,18 @@ This precourse assumes you're proficient at reading, writing, and listening to E
 
 If your computer is not up to the task, we recommend that you make an appointment with a service professional like an [Apple Genius Representative][genius] right away.
 
+## Materials
+
+Most of this precourse uses high-quality learning resources that others provide free of charge on the Internet. When it comes to JavaScript, there are a ton of "learn to code" websites that provide safe coding sandboxes to test the waters. While these are great resources for learning the individual pieces of full stack development, we've found that students only begin to see how all the pieces fit together when they start coding websites from scratch.
+
+We've found that **JavaScript for Kids** approaches the first steps of learning JavaScript the right way by building things from scratch. In order to complete the precourse chapter on JavaScript, you'll need to pick up this book.
+
+While the title may suggest otherwise, this book is for anyone who wants to learn JavaScript for the first time. It's designed to be kid friendly, but it can serve as a programming book for beginners of all ages. In the spirit of the "For Dummies" series and the "Idiot's Guide" series, JavaScript for Kids approaches the topic of writing JavaScript as if the reader has little to no background in it.
+
+You can pick up JavaScript for Kids from a number of bookstores, though you'll receive a **40% discount** by using the `JAVASCRIPTKIDS40` coupon code when purchasing directly through [No Starch Press][javascript-kids].
+
 #### [⇐ Previous](09_bonus.md) | [Next ⇒](01_macosx.md)
 
 [contact]: mailto:fs.all@galvanize.com
 [genius]: https://www.apple.com/retail/geniusbar/
+[javascript-kids]: https://www.nostarch.com/jsforkids

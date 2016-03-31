@@ -63,11 +63,15 @@ When it comes to structure, it's a good idea to use semantic tags for your conte
 - If you have content that's belongs in the same navigation, use a `<nav>` tag.
 - And so on.
 
-When it comes to style, take this opportunity to present your personality to us. Visual forms like layout, dimensions, spacing, borders, typography, colors, etc. are all at your disposal. You're free to get a fancy as you want, but don't feel like have to go overboard. You're also free to add interactivity with JavaScript, but it's not a requirement for this assessment.
+When it comes to style, take this opportunity to present your personality to us visually. In other words,
 
-As you work, keep an eye on how much time as elapsed. There are a few more chapters in this precourse, like one dedicated on JavaScript, that are equally important.
+- Capture our attention with typographic properties like `font`, `line-height`, and `text-align`.
+- Arrange your content with layout properties like `display`, `position`, `left`, `top`, `float`, and `clear`.
+- Size your content with dimensional properties like `height`, `width`, `padding`, `border`, and `margin`.
+- Spice up to your content with coloration properties like `color`, `background-color`, and `background-image`.
+- And so on.
 
-To help get your creative juices flowing, here are some examples of personal websites from past students.
+You're free to get a fancy as you want, but don't feel like have to go overboard. You're also free to add interactivity with JavaScript, but it's not a requirement for this assessment. As you work, keep an eye on how much time has elapsed. There are a few more chapters in this precourse, like one dedicated to JavaScript, that are equally important.
 
 #### Valid Syntax
 

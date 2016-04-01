@@ -17,7 +17,7 @@ With that said, doing the following will also be super helpful:
   * An in-depth and interactive article about the internet. It's a very, very long read but give it a shot (and try scrolling around on the page and playing with the interactive elements).
 
 1. [Anki Flashcards](http://ankisrs.net/)
-  * Anki is a free, fantastic flashcard program with no bells and whistles; except it's main, coolest feature which is spaced repetition. Anki will test you on those things you don't know as well more often and remind you about what you do know at regular intervals. It's a great tool for learning anything, including memorizing concepts and commands. Get started by importing the flashcards contained in this folder which will test you on keyboard shortcuts. Also, consider making your own for
+  * Anki is a free, fantastic flashcard program with no bells and whistles; except it's main, coolest feature which is spaced repetition. Anki will test you on those things you don't know as well more often and remind you about what you do know at regular intervals. It's a great tool for learning anything, including memorizing concepts and commands.
 
 1. [typing.io](https://typing.io/) & [Typing Speed Test](http://typing-speed-test.aoeu.eu/?lang=en)
   * It is *incredibly* important that you work on your typing speed. Being able to type faster means iterating faster; that means getting to the right answer, faster. typing.io tests your typing speed with code syntax while the Typing Speed Test is a more traditional typing test. Attempt to get above 40wpm on typing.io and 70wpm on Typing Speed Test.

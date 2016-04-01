@@ -4,7 +4,7 @@
 
 **Duration:** About 20 hours
 
-Hyper Text Markup Language, or **HTML**, is a language for describing the structure and content of a web page with syntax like `<p>Hello world</p>`. On the other hand, Cascading Style Sheets, or **CSS**, is a language for describing the style of a web page with syntax like `p { color: orange; }`. When mastered, full stack developers tend to prefer writing HTML and CSS code by hand over using tools like Adobe Dreamweaver because it gives them complete control over how web pages are structured and styled.
+Hyper Text Markup Language, or **HTML**, is a language for describing the structure and content of a web page with syntax like `<p>Hello world</p>`. Cascading Style Sheets, or **CSS**, is a language for describing the style of a web page with syntax like `p { color: orange; }`. Together, they are two essential technologies for full stack web development. When mastered, full stack developers tend to prefer writing HTML and CSS code by hand over using tools like Adobe Dreamweaver because it gives them complete control over how web pages are structured and styled.
 
 In this chapter, your objective is to demonstrate competency with HTML and CSS. To complete this objective, please follow along with the tutorial found below and complete the assessment at the end of this chapter. If you're already familiar with HTML and CSS, you may be able to complete the assessment without reading the tutorial. Though, you may also learn a trick or two from it.
 

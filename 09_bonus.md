@@ -2,36 +2,98 @@
 
 ## Bonus
 
-We're glad you're excited to get started with us! We're excited too!
+**Duration:** Unlimited
 
-However, we also take your wellness (and sanity) seriously. If you're at this point, consider doing the following before taking on anymore courses through Code Academy or Code School:
+Congratulations on finishing the essential chapters of the precourse! If you're reading this, then you're probably wondering what you can do to hit the ground running, especially for the first month of the in-person training. Well, you came to the right place as we're serious about supporting your ambitious goals. However, we're also serious about helping you maximize the entire 6 months of your training. So before continuing with the bonus topics below, we strongly recommend that you consider taking steps to improve your overall wellness.
 
-1. Relax
-  * Spend time with your friends and family, catch up on your shows, and overall just relax. You'll have plenty of time to be stressed; take care of yourself so that when you start the class, you're ready to go.
-1. Begin (or Continue) Good Habits
-  * Include some sort of exercise into your daily routine; begin making a healthy lunch for yourself. It takes a few weeks to start new habits, so start healthy ones now.
+#### Spend time relaxing
 
-With that said, doing the following will also be super helpful:
+You'll have plenty of time to be stressed once the in-person training begins. Now's a great time to take care of your mind and body, so when class starts, you'll feel refreshed and ready to learn.
 
-1. [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
-  * An in-depth and interactive article about the internet. It's a very, very long read but give it a shot (and try scrolling around on the page and playing with the interactive elements).
+- Take a nap in the sun.
+- Visit your family and friends.
+- Catch up on your favorite shows.
+- Read that book you've been putting off.
+- Go on an adventure.
 
-1. [Anki Flashcards](http://ankisrs.net/)
-  * Anki is a free, fantastic flashcard program with no bells and whistles; except it's main, coolest feature which is spaced repetition. Anki will test you on those things you don't know as well more often and remind you about what you do know at regular intervals. It's a great tool for learning anything, including memorizing concepts and commands.
+#### Build good habits
 
-1. [typing.io](https://typing.io/) & [Typing Speed Test](http://typing-speed-test.aoeu.eu/?lang=en)
-  * It is *incredibly* important that you work on your typing speed. Being able to type faster means iterating faster; that means getting to the right answer, faster. typing.io tests your typing speed with code syntax while the Typing Speed Test is a more traditional typing test. Attempt to get above 40wpm on typing.io and 70wpm on Typing Speed Test.
+It takes most people a few weeks to solidify new habits. Now's a great time to start or continue good habits, so when class starts, you'll feel healthy and strong.
 
-1. [How to Use Terminal: The Basics](http://mac.appstorm.net/how-to/utilities-how-to/how-to-use-terminal-the-basics/)
-  * Every developer will perform certain tasks—navigating a file system, viewing files of a directory, etc. The following guide will introduce you to the basics of interacting with a command line interface.
+- Wake up (and go to bed) early.
+- Make healthy lunches for yourself.
+- Add exercise and/or meditation to your daily routine.
+- Think (and say aloud) positive thoughts about yourself.
+- Cut back on any vices like caffeine, alcohol, nicotine, or marijuana.
 
-1. [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-  * Quickly navigating around the command line is crucial to developing well. Learn the command line basics by going through the first 13 chapters.
+## Topics
 
-1. [shortcutFoo](https://www.shortcutfoo.com/)
-  * Most of the modules require payment, but there are a few free lessons for common text editors like Atom.
+Here are our suggestions on how to further level-up your developer chops before the in-person training gets rolling.
 
-1. [Lessons Learned in Software Development](http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/)
-  * One developer's list of heuristics and rules of thumb for software development. Keep these in mind as you write code.
+#### Studying & Learning
+
+Very few students are able to breeze through our full stack program with minimal effort. The vast majority of students achieve their success through effective studying and learning techniques. The **Effective Studying and Learning** video series will help you develop and apply the same techniques used by highly successful students. With some practice, your ability to retain and apply of complex, full stack concepts will dramatically improve.
+
+[Effective Studying and Learning][studying-learning]
+
+[![](images/studying_learning.png)][studying-learning]
+
+[studying-learning]: https://www.youtube.com/watch?v=5ad6grll-ak&index=1&list=PLx65qkgCWNJIBzsXii5b6hze09et4cu5n
+
+#### Flashcards
+
+Flashcards are an effective learning drill that aids in the memorization of new concepts. If you like the idea of making flashcards but don't want to carry them around, **Flashcard Hero** is a free flashcard app for Mac OS X and iOS. It supports building cards with both text and images, grouping cards by topics, testing your memory with the [Leitner system][leitner-system] of spaced repetition, and generating progress reports on how well you remember each card.
+
+[Flashcard Hero][flashcard-hero]
+
+[![](images/flashcard_hero.png)][flashcard-hero]
+
+[flashcard-hero]: https://itunes.apple.com/us/app/flashcard-hero-free/id726165621?mt=12
+[leitner-system]: https://en.wikipedia.org/wiki/Leitner_system
+
+#### Typing
+
+Being proficient in typing is incredibly important yet often overlooked. Being able to type faster means adding features and fixing bugs faster. The **Typing Speed Test** is a traditional typing test that measures your typing speed of common English words. Can you score faster than 70 words per minute? Take the test a couple of times and write down your average words per minute for each test. Then, periodically retake these tests and watch your scores climb!
+
+[Typing Speed Test][typing_speed_test]
+
+[![](images/typing_speed_test.png)][typing_speed_test]
+
+[typing.io][typing_io] is a typing speed test for developers. Can you score faster than 30 words per minute?
+
+[![](images/typing_io.png)][typing_io]
+
+[typing_io]: https://typing.io/
+[typing_speed_test]: http://typing-speed-test.aoeu.eu/?lang=en
+
+#### JavaScript
+
+If there's one thread that binds the entire in-person training together it's JavaScript. Students who enter the program strong in JavaScript are often the ones leaving with a job right out of the gate. That's why we highly encourage you to finish the **JavaScript for Kids** book. The remaining chapters will teach you how to build fun, 2-D games for the browser from scratch. For the uninitiated, games are by far the most sophisticated type of application you can build. Plus, students often like to make a browser-based game for their first quarter project. And with a few under your belt, you'll definitely have an easier time thinking up and executing on an game idea, if that's the route you decide to take.
+
+[JavaScript for Kids][javascript-kids]
+
+[![](images/javascript_snake.png)][javascript-kids]
+
+[javascript-kids]: https://www.nostarch.com/jsforkids
+
+#### HTML & CSS
+
+Similar to JavaScript, you'll be using HTML and CSS throughout the in-person training. If you're feeling a little weak in these areas, we strongly recommend you get some more practice before the program starts. **Treehouse** has an excellent course on front end web technologies that's worth checking out.
+
+[Treehouse - Front End Web Development][treehouse]
+
+[![](images/treehouse.png)][treehouse]
+
+[treehouse]: https://teamtreehouse.com/tracks/front-end-web-development
+
+#### Keyboard shortcuts
+
+There are tons of keyboard of shortcuts to learn. For that, look into **shortcutFoo**. Most of their modules require payment, but there are a few free lessons for developer tools like Atom.
+
+[shortcutFoo][shortcutFoo]
+
+[![](images/shortcutFoo.png)][shortcutFoo]
+
+[shortcutFoo]: https://www.shortcutfoo.com/
 
 #### [⇐ Previous](08_javascript.md) | [README ⇒](README.md)

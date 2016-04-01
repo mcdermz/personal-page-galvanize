@@ -6,7 +6,7 @@
 
 [Atom][atom] is a text editor from GitHub that's modern, approachable, yet hackable to the core. It's quickly becoming the text editor of choice for many full stack developers because it's easy to use, provides syntax highlighting and tab completions, and can be customized to do anything without ever touching a config file.
 
-In this chapter, your objective is to demonstrate competency with Atom. To complete this objective, please follow along with the video found below and complete the self-assessment at the end of this chapter. If you're already familiar with Atom, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
+In this chapter, your objective is to demonstrate competency with Atom. To complete this objective, please follow along with the videos found below and complete the self-assessment at the end of this chapter. If you're already familiar with Atom, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
 
 If you've ordered a laptop through us, please coordinate with your campus on the earliest date it's available for pickup. Also, you may want to re-watch this once you obtain it.
 

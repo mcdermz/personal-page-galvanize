@@ -11,7 +11,7 @@
 - When's the best day of the week to travel from San Francisco to Seattle?
 - How long will it take a social network to gain 100,000 active users?
 
-In this chapter, your objective is to demonstrate competency with the basics of algebra. To complete this objective, please follow along with the video found below and complete the self-assessment at the end of this chapter. If you're already familiar with algebra, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
+In this chapter, your objective is to demonstrate competency with the basics of algebra. To complete this objective, please follow along with the videos found below and complete the self-assessment at the end of this chapter. If you're already familiar with algebra, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
 
 [Math Antics - Algebra Basics][math-antics]
 

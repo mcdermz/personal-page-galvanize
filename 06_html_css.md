@@ -38,7 +38,7 @@ Your personal website should have two pages linked together with anchor tags.
 
 On the first page, describe who you are and where you come from. Tell us about yourself, your hobbies, hometown, family, friends, etc. For example:
 
-> Hi there! My name is Zelda. I was born into royalty and spend my nights and weekends battling evil. My closest friend is Link. Together, we protect the kingdom of Hyrule. Here's a picture of us fighting Gannon. [INSERT PHOTO]
+> Hi there! My name is Zelda. I was born into royalty and spend my nights and weekends battling evil. My closest friend is Link. Together, we protect the kingdom of Hyrule. Here's a picture of us fighting Ganon. [INSERT PHOTO]
 
 On the second page, describe where you're going in life and who you'll become. Tell us about your career goals, education goals, hopes, dreams, etc. For example:
 

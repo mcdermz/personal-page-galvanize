@@ -33,7 +33,7 @@ Though it might take you less time, please allocate at least 42 hours to complet
 This precourse assumes you're proficient at reading, writing, and listening to English. It also assumes your computer is up to the task of coding, which means that it:
 
 * Is virus and malware free
-* Uses the latest, stable, updated version of its operating system
+* Uses the latest, stable version of its operating system
 * Has a functioning screen, keyboard, and trackpad
 * Has plenty of free hard drive space and memory
 * Can reliably connect to wireless networks

@@ -191,15 +191,15 @@ True
 
 ## Exponents In Algebra
 
-##### What is `x^0` equivalent to?
+##### What is `x⁰` equivalent to?
 
 `1`
 
-##### What is `x^1` equivalent to?
+##### What is `x¹` equivalent to?
 
 `1 × x`
 
-##### What is `x^2` equivalent to?
+##### What is `x²` equivalent to?
 
 `1 × x × x`
 
@@ -207,15 +207,15 @@ True
 
 `x = 16`
 
-##### Solve the equation `3√x = 2`.
+##### Solve the equation `³√x = 2`.
 
 `x = 8`
 
-##### Solve the equation `x^2 = 25`.
+##### Solve the equation `x² = 25`.
 
 `x = ±5`
 
-##### Solve the equation `x^3 = 216`.
+##### Solve the equation `x³ = 216`.
 
 `x = 4`
 
@@ -249,9 +249,9 @@ A chain of 2 terms.
 
 A chain of 3 terms.
 
-##### How many terms does the polynomial `4x^2 + x + 2` have?
+##### How many terms does the polynomial `4x² + x + 2` have?
 
-Three. `4x^2`, `1x^1`, and `2x^0`.
+Three. `4x²`, `1x¹`, and `2x⁰`.
 
 ##### What is a constant term?
 
@@ -261,7 +261,7 @@ A term with no variable part.
 
 True
 
-##### True or false. `4x^2` is a second degree term.
+##### True or false. `4x²` is a second degree term.
 
 True
 
@@ -274,13 +274,13 @@ True.
 1. Polynomials are referred to by the degree of their highest term.
 1. Polynomials are arranged by the highest degree to the lowest degree.
 
-##### Arrange the polynomial `3x^3 + 4 + 2x + 6x^2 + 5x^4` from highest to lowest degree.
+##### Arrange the polynomial `3x³ + 4 + 2x + 6x² + 5x⁴` from highest to lowest degree.
 
-`5x^4 + 3x^3 + 6x^2 + 2x + 4`
+`5x⁴ + 3x³ + 6x² + 2x + 4`
 
-##### Arrange the polynomial `2x + 4x^3 - 2x^6` from highest to lowest degree.
+##### Arrange the polynomial `2x + 4x³ - 2x⁶` from highest to lowest degree.
 
-`-2x^6 + 4x^3 + 2x`
+`-2x⁶ + 4x³ + 2x`
 
 ## Simplifying Polynomials
 
@@ -288,19 +288,19 @@ True.
 
 Identify and combine like terms into a single term to make the polynomial shorter.
 
-##### Simplify the polynomial `x^3 + x^2 + x^2 + x^1`.
+##### Simplify the polynomial `x³ + x² + x² + x¹`.
 
-`x^3 + 2x^2 + x`
+`x³ + 2x² + x`
 
 ##### What are like terms?
 
 Terms that have exactly the same variable part.
 
-##### True or false: `3x^2` and `x^2` are like terms.
+##### True or false: `3x²` and `x²` are like terms.
 
 True
 
-##### True or false: `x^3` and `y^3` are like terms.
+##### True or false: `x³` and `y³` are like terms.
 
 False
 
@@ -312,7 +312,7 @@ True
 
 `-x`
 
-##### True or false: `2x^2` and `2x^3` are like terms.
+##### True or false: `2x²` and `2x³` are like terms.
 
 False
 
@@ -324,18 +324,18 @@ True
 
 `3xy`
 
-##### True or false: `5x^2y` and `3yx^2` are like terms.
+##### True or false: `5x²y` and `3yx²` are like terms.
 
 True
 
-##### Simplify the polynomial `2x^3 + 3x - x^3 + 5`.
+##### Simplify the polynomial `2x³ + 3x - x³ + 5`.
 
-`x^3 + 3x + 5`
+`x³ + 3x + 5`
 
-##### Simplify the polynomial `4x^2 - 5 + x^2 + 11`.
+##### Simplify the polynomial `4x² - 5 + x² + 11`.
 
-`5x^2 + 6`
+`5x² + 6`
 
-##### Simplify the polynomial `-x + 1 - 7x^2 + 3x - 6 - 2x^2`.
+##### Simplify the polynomial `-x + 1 - 7x² + 3x - 6 - 2x²`.
 
-`-9x^2 + 2x - 5`
+`-9x² + 2x - 5`

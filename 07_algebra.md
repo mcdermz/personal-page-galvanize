@@ -80,13 +80,13 @@ Take a moment to think about how you would answer the following questions. Then 
 
 ### Exponents In Algebra
 
-- What is `x^0` equivalent to?
-- What is `x^1` equivalent to?
-- What is `x^2` equivalent to?
+- What is `x⁰` equivalent to?
+- What is `x¹` equivalent to?
+- What is `x²` equivalent to?
 - Solve the equation `√x = 4`.
-- Solve the equation `3√x = 2`.
-- Solve the equation `x^2 = 25`.
-- Solve the equation `x^3 = 216`.
+- Solve the equation `³√x = 2`.
+- Solve the equation `x² = 25`.
+- Solve the equation `x³ = 216`.
 
 ### What Are Polynomials?
 
@@ -97,31 +97,31 @@ Take a moment to think about how you would answer the following questions. Then 
 - What's a monomial?
 - What's a binomial?
 - What's a trinomial?
-- How many terms does the polynomial `4x^2 + x + 2` have?
+- How many terms does the polynomial `4x² + x + 2` have?
 - What is a constant term?
 - True or false. The degree of a term is determined by the power of the variable part.
-- True or false. `4x^2` is a second degree term.
+- True or false. `4x²` is a second degree term.
 - True or false. `x` is a first degree term.
 - Why do we care about the degree of terms?
-- Arrange the polynomial `3x^3 + 4 + 2x + 6x^2 + 5x^4` from highest to lowest degree.
-- Arrange the polynomial `2x + 4x^3 - 2x^6` from highest to lowest degree.
+- Arrange the polynomial `3x³ + 4 + 2x + 6x² + 5x⁴` from highest to lowest degree.
+- Arrange the polynomial `2x + 4x³ - 2x⁶` from highest to lowest degree.
 
 ### Simplifying Polynomials
 
 - How do you simply a polynomial?
-- Simplify the polynomial `x^3 + x^2 + x^2 + x^1`.
+- Simplify the polynomial `x³ + x² + x² + x¹`.
 - What are like terms?
-- True or false: `3x^2` and `x^2` are like terms.
-- True or false: `x^3` and `y^3` are like terms.
+- True or false: `3x²` and `x²` are like terms.
+- True or false: `x³` and `y³` are like terms.
 - True or false: `-5x` and `4x` are like terms.
 - Simplify the polynomial `-5x + 4x`.
-- True or false: `2x^2` and `2x^3` are like terms.
+- True or false: `2x²` and `2x³` are like terms.
 - True or false: `-3xy` and `6yx` are like terms.
 - Simplify the polynomial `-3xy + 6yx`.
-- True or false: `5x^2y` and `3yx^2` are like terms.
-- Simplify the polynomial `2x^3 + 3x - x^3 + 5`.
-- Simplify the polynomial `4x^2 - 5 + x^2 + 11`.
-- Simplify the polynomial `-x + 1 - 7x^2 + 3x - 6 - 2x^2`.
+- True or false: `5x²y` and `3yx²` are like terms.
+- Simplify the polynomial `2x³ + 3x - x³ + 5`.
+- Simplify the polynomial `4x² - 5 + x² + 11`.
+- Simplify the polynomial `-x + 1 - 7x² + 3x - 6 - 2x²`.
 
 ### Conclusion
 

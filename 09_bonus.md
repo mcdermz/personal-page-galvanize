@@ -31,9 +31,6 @@ With that said, doing the following will also be super helpful:
 1. [shortcutFoo](https://www.shortcutfoo.com/)
   * Most of the modules require payment, but there are a few free lessons for common text editors like Atom.
 
-1. [What have you tried?](http://whathaveyoutried.com)
-  * An article about how to properly ask technical questions, and demonstrate that you've done your research and are willing to learn on your own. Read the author's own response to his article afterwards.
-
 1. [Lessons Learned in Software Development](http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/)
   * One developer's list of heuristics and rules of thumb for software development. Keep these in mind as you write code.
 

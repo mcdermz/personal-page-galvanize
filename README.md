@@ -8,7 +8,7 @@ You've been accepted into this program because we believe you have the potential
 
 Like all journeys, preparation will directly affect your level of success in this course. You'll climb mountains of intricate and challenging concepts that'll test your grasp of the fundamentals of full stack web development. The better prepared you are for this course, the easier your climb to the top will be.
 
-To help you prepare, we've developed this precourse for you to complete before the first day of class. Each chapter will introduce a core concept that'll be invaluable to your journey toward mastery of full stack development. If you find yourself needing a bit of help with the precourse, as students often do, please don't hesitate to [contact us][contact]. Congratulations and welcome to your next adventure!
+To help you prepare, we've developed this precourse for you to complete before the first day of class. Each chapter will introduce a core concept that'll be invaluable to your journey toward mastery of full stack development. If you find yourself needing a bit of help with the precourse, as students often do, please don't hesitate to contact us via [email][contact] or on your cohort's Slack channel. Congratulations and welcome to your next adventure!
 
 The Galvanize Full Stack Team
 

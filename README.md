@@ -28,6 +28,12 @@ Though it might take you less time, please allocate at least 42 hours to complet
 | [Chapter 8: JavaScript](08_javascript.md)        | About 15 hours     |
 | [Chapter 9: Bonus](09_bonus.md)                  | Unlimited          |
 
+## Final Quiz
+
+Once you've completed the pre-course you'll need to complete a final quiz to test your knowledge. Don't stress! The quiz is open book/internet and you can take as long as you want.
+
+[Take the Pre-Course Quiz Now](http://bit.ly/wd-precourse)
+
 ## Prerequisites
 
 This precourse assumes you're proficient at reading, writing, and listening to English. It also assumes your computer is up to the task of coding, which means that it:

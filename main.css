@@ -1,0 +1,18 @@
+body {
+  background:#8EEAF5;
+  linear-gradient(to right,#8EEAF5,#B2E5C4);
+}
+
+
+
+a:hover {
+  color: #648880;
+}
+
+img {
+  float: top-right;
+  width: 30%;
+}
+footer {
+  clear: both;
+}

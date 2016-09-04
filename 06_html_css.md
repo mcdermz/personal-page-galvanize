@@ -71,7 +71,7 @@ When it comes to style, take this opportunity to present your personality to us 
 - Spice up to your content with coloration properties like `color`, `background-color`, and `background-image`.
 - And so on.
 
-You're free to get a fancy as you want, but don't feel like have to go overboard. You're also free to add interactivity with JavaScript, but it's not a requirement for this assessment. As you work, keep an eye on how much time has elapsed. There are a few more chapters in this precourse, like one dedicated to JavaScript, that are equally important.
+You're free to get as fancy as you want, but don't feel like you have to go overboard. You're also free to add interactivity with JavaScript, but it's not a requirement for this assessment. As you work, keep an eye on how much time has elapsed. There are a few more chapters in this precourse, like one dedicated to JavaScript, that are equally important.
 
 #### Valid Syntax
 

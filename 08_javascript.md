@@ -50,4 +50,4 @@ Congratulations! By completing the assessment, you've demonstrated a high degree
 #### [⇐ Previous](07_algebra.md) | [Next ⇒](09_bonus.md)
 
 [javascript-kids]: https://www.nostarch.com/jsforkids
-[upload]: https://github.com/gSchool/fs-precourse/upload/hangman
+[upload]: https://github.com/gSchool/fs-precourse/upload/

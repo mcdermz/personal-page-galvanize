@@ -20,17 +20,25 @@ Your task is to use HTML and CSS to build a personal website for yourself. You'l
 
 When you're finished, we'd like to take a look at your work. Please use the following steps to submit your website.
 
-1. On GitHub, navigate to the [upload page][upload] of this repository.
+1. Scroll to the top of this page and click `Fork`.
+	* You may need to click your username to create the `Fork` on your account. 
+	* `Forking` is a github concept that allows you to make an exact copy of a repository on your own account.
 
-1. Drag and drop the folder you'd like to upload onto the file tree.
+1. On your `Fork` of this repo on GitHub, (Make sure your name is in the top left of the page.) click the **Upload Files** button
 
-1. Type a short commit message that includes your name, cohort, and project. (e.g. Zelda g21 personal website)
+1. Drag and drop the folder you'd like to upload.
 
-1. Below the commit message fields, click the **create a new branch** radio button.
+1. Type a short commit message. (e.g. personal website)
 
-1. Click the **Propose changes** button.
+1. Click the **Commit changes** button.
+	* This will upload your files to your copy of the repo on github
 
-![](images/html_css.gif)
+1. After uploading, click **New pull request** (Make sure your name is in the top left of the page.)
+
+1. On the pull request page, click **Create pull request** and then after the page loads, click  **Create pull request** again
+	* This will allow the galvanize instructors to see your uploaded files
+
+![](images/github_upload.gif)
 
 #### Scope and Content
 

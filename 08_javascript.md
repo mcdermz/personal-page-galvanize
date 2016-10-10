@@ -31,17 +31,19 @@ Start off by creating a `hangman.html` file and embed the author's blueprint cod
 
 Run the program often to make sure everything works as you expect. When you're finished, we'd like to take a look at your work. Please use the following steps to submit your game.
 
-1. On GitHub, navigate to the [upload page][upload] of this repository.
+1. On GitHub, navigate to your fork of this repo (which you created in Section 6 HTML/CSS).
+	* Your fork will have the URL with your username in it:
+	`https://github.com/your_username_here/fs-precourse`
+
+1. Click **Upload files**
 
 1. Drag and drop the `hangman.html` file onto the file tree.
 
-1. Type a short commit message that includes your name, cohort, and project. (e.g. Zelda g21 hangman)
+1. Type a short commit message. (e.g. added hangman)
 
-1. Below the commit message fields, click the **create a new branch** radio button.
+1. Click the **Commit changes** button
 
-1. Click the **Propose changes** button.
-
-![](images/javascript.gif)
+![](images/hangman_upload.gif)
 
 ### Conclusion
 

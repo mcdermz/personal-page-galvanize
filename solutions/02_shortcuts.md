@@ -2,33 +2,15 @@
 
 ## What's the keyboard shortcut for the following universal actions?
 
-##### Cut
-
-Command `⌘` + X
-
-##### Copy
-
-Command `⌘` + C
-
-##### Paste
-
-Command `⌘` + V
-
-##### Select all
-
-Command `⌘` + A
-
-##### Undo
-
-Command `⌘` + Z
-
-##### Redo
-
-Command `⌘` + Shift ⇧ + Z
-
-##### Toggle Spotlight
-
-Command `⌘` + Spacebar
+| Actions          | Shortcut                  |
+|------------------|---------------------------|
+| Cut              | Command `⌘` + X           |
+| Copy             | Command `⌘` + C           |
+| Paste            | Command `⌘` + V           |
+| Select all       | Command `⌘` + A           |
+| Undo             | Command `⌘` + Z           |
+| Redo             | Command `⌘` + Shift ⇧ + Z |
+| Toggle Spotlight | Command `⌘` + Spacebar    |
 
 ## What's the keyboard shortcut for the following application actions?
 

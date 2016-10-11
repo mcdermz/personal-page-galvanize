@@ -60,7 +60,7 @@ The operating system version and details about the computer like its processor, 
 
 ##### What does selecting "Force Quit" do?
 
-It opens a window that shows you what is currently running and allows you to manually quit a frozen application. You can also press the Command `⌘` + Option `⌥` + Esc keyboard shortcut to access the Force Quit window.
+It opens a window that shows you what is currently running and allows you to manually quit a frozen application. You can also press the Command ⌘ + Option ⌥ + Esc keyboard shortcut to access the Force Quit window.
 
 ##### What's the difference between Sleep, Restart, Shutdown, and Log Out?
 
@@ -75,7 +75,7 @@ It's a menu bar that can be accessed by clicking the bulleted list icon in the t
 
 ##### What's Spotlight?
 
-A search bar that allows you to search for any file on your computer or even on the Internet. You access it by clicking the magnifying glass in the top right of the screen or using the Command `⌘` + Spacebar keyboard shortcut.
+A search bar that allows you to search for any file on your computer or even on the Internet. You access it by clicking the magnifying glass in the top right of the screen or using the Command ⌘ + Spacebar keyboard shortcut.
 
 ##### How do you connect to Wi-Fi networks?
 

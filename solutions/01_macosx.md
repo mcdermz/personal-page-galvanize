@@ -16,15 +16,15 @@ It's a folder that allows you to access all the files that are already on your d
 
 ##### Where are documents stored?
 
-In the Documents folder.
+In the `Documents` folder.
 
 ##### Where are downloads stored?
 
-In the Downloads folder.
+In the `Downloads` folder.
 
 ##### What's the Home folder?
 
-It's where all of your individual files actually live. Typically, those files are stored in the above mentioned subfolders like Documents, Downloads, Music, Movies, and Pictures.
+It's where all of your individual files actually live. Typically, those files are stored in the above mentioned subfolders like `Documents`, `Downloads`, `Music`, `Movies`, and `Pictures`.
 
 ## The Dock
 
@@ -34,7 +34,7 @@ It's the tray at the bottom of the screen that shows the icons for all open and/
 
 ##### How do you add applications to the Dock?
 
-Find the application icon in the Applications folder, click and drag it into the Dock where you want it to go, and then release the click.
+Find the application icon in the `Applications` folder, click and drag it into the Dock where you want it to go, and then release the click.
 
 ##### How do you remove applications from the Dock?
 

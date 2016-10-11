@@ -4,15 +4,15 @@
 
 ##### What's the Finder?
 
-It’s how your files are organized on a Mac. It’s equivalent to Window Explorer or My Computer on a PC.
+It's how your files are organized on a Mac. It's equivalent to Window Explorer, or My Computer, on Windows.
 
 ##### Where are applications installed?
 
-Applications are installed in the applications folder. It’s similar to Programs on a PC.
+Applications are installed in the `Applications` folder. It's similar to the Programs folder on Windows.
 
 ##### What's the Desktop?
 
-It’s a folder that allows you to access all the files that are already on your desktop.
+It's a folder that allows you to access all the files that are already on your desktop.
 
 ##### Where are documents stored?
 
@@ -24,129 +24,129 @@ In the Downloads folder.
 
 ##### What's the Home folder?
 
-It’s where all of your individual data actually lives (My Documents, Downloads, Music, Movies, Pictures, etc.)
+It's where all of your individual files actually live. Typically, those files are stored in the above mentioned subfolders like Documents, Downloads, Music, Movies, and Pictures.
 
 ## The Dock
 
 ##### What's the Dock?
 
-It’s the tray at the bottom of the screen that holds the icons for all open and/or pinned programs.
+It's the tray at the bottom of the screen that shows the icons for all open and/or pinned programs.
 
 ##### How do you add applications to the Dock?
 
-Find the application icon in the Applications folder, click and drag it into the dock where you want it to go.
+Find the application icon in the Applications folder, click and drag it into the Dock where you want it to go, and then release the click.
 
 ##### How do you remove applications from the Dock?
 
-Click and drag out of the dock and release the cursor.
+Click and drag out of the icon from the Dock and release the click.
 
 ##### How do you move applications around inside the Dock?
 
-Click and drag the icon to where you would like it to be.
+Click and drag the icon to where you would like it to go and then release the click.
 
 ##### What does the dot under the application icon mean?
 
-It means the application is currently running. It can be removed by quitting the application.
+It means the application is currently running. The dot will go away once you quit the application.
 
 ## The Menu Bar
 
 ##### What's the Apple Menu?
 
-A menu available by clicking the apple icon in the top left corner of the screen. It is always there no matter which application is running. It is how you access information about your Mac, access system preferences, restart, shutdown, sleep, or log off.
+A menu that's available by clicking the apple icon in the top left corner of the screen. It's always present no matter which application is running. Also, it's how you access information about your Mac, start the System Preferences application, and restart, shutdown, sleep, or log off the computer.
 
 ##### What information is available when selecting "About This Mac”?
 
-The operating system version, details about the Mac, info on the processor, memory, graphics card, and the serial number for your Mac.
+The operating system version and details about the computer like its processor, memory, graphics card, and the serial number.
 
 ##### What does selecting "Force Quit" do?
 
-It opens a window that will show you what is currently running and if something is frozen or crashing, you can manually quit the application from there. You can also use the keyboard shortcut to access Force Quit (Command ⌘ + Option ⌥ + Esc).
+It opens a window that shows you what is currently running and allows you to manually quit a frozen application. You can also press the Command `⌘` + Option `⌥` + Esc keyboard shortcut to access the Force Quit window.
 
 ##### What's the difference between Sleep, Restart, Shutdown, and Log Out?
 
-- Sleep is a power-saving mode that will allow you to later quickly return to what you left off doing.
-- Restart will turn off the computer and immediately turn it back on (it is required for some major updates or installs).
-- Shutdown is how you completely turn off the computer.
-- Log Out will log you out of your account and allow you to switch users.
+- Sleep is a power-saving mode that turns off components inside your computer but allows you to quickly return to where you left off.
+- Restart turns off the computer and immediately turn it back on. Sometimes this is required for major system updates or installations.
+- Shutdown simply turns off the computer.
+- Log Out will log you out of your account and allow you to log back in to any of your computer's user accounts.
 
 ##### What's the Notifications Center?
 
-It can be accessed by the bulleted list menu icon in the top right and then clicking Notifications. Under Today, it shows you upcoming appointments on your calendar, the weather forecast, and stock market updates. The Notification Center shows you any new emails, messages, or other notifications.
+It's a menu bar that can be accessed by clicking the bulleted list icon in the top right of the screen. Under Today, it shows you upcoming appointments on your calendar, the weather forecast, and stock market updates. The Notification Center shows you any new emails, messages, or other notifications.
 
 ##### What's Spotlight?
 
-A search bar that allows you to search any file on your computer or even on the internet. You can access it by clicking the magnifying glass in the top right of the screen or using the keyboard shortcut (Command ⌘ + Spacebar).
+A search bar that allows you to search for any file on your computer or even on the Internet. You access it by clicking the magnifying glass in the top right of the screen or using the Command `⌘` + Spacebar keyboard shortcut.
 
 ##### How do you connect to Wi-Fi networks?
 
-Click on the Wi-Fi icon in the toolbar at the top of the screen. Select a network and then type in the password (if needed).
+Click on the Wi-Fi icon in the menu at the top of the screen, select a network by its name, and then type in the password (if needed).
 
 ## System Preferences
 
 ##### What are the System Preferences?
 
-It’s how you customize all the settings on your Mac. It’s similar to the Control Panel on a PC.
+It's how you customize most of the operating system settings. It's similar to the Control Panel on Windows.
 
 ##### Where are the settings for showing the scroll bars?
 
-Under General
+In the General section.
 
 ##### Where are the settings for choosing a different Desktop background?
 
-Under Desktop & Screen Saver
+In the Desktop & Screen Saver section.
 
 ##### Where are the settings for allowing apps to be downloaded from the app store?
 
-Under Security & Privacy
+In the Security & Privacy section.
 
 ##### Where are the settings for preventing Spotlight from searching folders?
 
-Under Spotlight -> Privacy
+In the Spotlight -> Privacy section.
 
 ##### Where are the settings for adjusting when the display turns off?
 
-Under Energy Saver
+In the Energy Saver section.
 
 ##### Where are the settings for gesturing with the trackpad?
 
-Under Trackpad
+In the Trackpad section.
 
 ##### What happens when you click the red, yellow, and green buttons at the top left of every window?
 
-- The red button closes the window.
-- The yellow button minimizes the window.
-- The green button pulls the window into fullscreen mode.
+- The red button closes a window.
+- The yellow button minimizes a window.
+- The green button expands the window into fullscreen mode.
 
 ##### How do you turn off fullscreen mode?
 
-Either hit the escape key or move your mouse to the top of the screen and click the green button once it drops down.
+Either press the Esc key or move your mouse to the top of the screen and click the green button once it slides down.
 
 ##### Where are the settings for configuring a printer?
 
-Under Printers & Scanners
+In the Printers & Scanners section.
 
 ##### Where are the settings for enabling iCloud features?
 
-Under iCloud
+In the iCloud section.
 
 ##### Where are the settings for managing user accounts?
 
-Under Users & Groups
+In the Users & Groups section.
 
 ##### Where are the settings for downloading updates from the App Store?
 
-Under App Store
+In the App Store section.
 
 ##### Where are the settings for backing up your computer with Time Machine?
 
-Under Time Machine
+In the Time Machine section.
 
 ## The App Store
 
 ##### What's the App Store?
 
-The place to download applications for your computer that have been approved by Apple. These applications are generally considered very safe.
+The place to download free and paid applications for your computer that have been approved by Apple. These applications are generally considered very safe.
 
 ##### Where can you download updates for applications and Mac OS X itself?
 
-Under the Updates tag in the App Store
+In the Updates tab if the App Store.

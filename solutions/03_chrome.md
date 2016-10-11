@@ -1,4 +1,4 @@
-# Google Chrome - Precourse Solutions
+# Google Chrome Solutions
 
 ##### How do you install Chrome?
 

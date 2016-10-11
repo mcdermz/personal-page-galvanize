@@ -1,4 +1,4 @@
-# Mac OS X - Precourse Solutions
+# Mac OS X Solutions
 
 ## The Finder
 

@@ -1,4 +1,4 @@
-# Keyboard Shortcuts - Precourse Solutions
+# Keyboard Shortcuts Solutions
 
 ## What's the keyboard shortcut for the following universal actions?
 

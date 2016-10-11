@@ -1,4 +1,4 @@
-# Atom - Precourse Solutions
+# Atom Solutions
 
 ## Installing Atom
 

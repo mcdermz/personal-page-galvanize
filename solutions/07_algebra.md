@@ -1,3 +1,5 @@
+# Algebra Solutions
+
 ## What is Algebra?
 
 ##### What are the four main operations of algebra?

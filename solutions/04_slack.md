@@ -1,4 +1,4 @@
-# Slack - Precourse Solutions
+# Slack Solutions
 
 ## General
 

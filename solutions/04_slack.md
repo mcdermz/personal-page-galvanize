@@ -56,7 +56,7 @@ You can discuss sensitive or confidential topics that won’t be searchable by p
 
 ##### How do you message someone in a channel?
 
-You mention them with \@username.
+You mention them with @username.
 
 ##### How do you send a direct message?
 

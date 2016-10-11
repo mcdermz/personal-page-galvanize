@@ -64,10 +64,10 @@ It opens a window that shows you what is currently running and allows you to man
 
 ##### What's the difference between Sleep, Restart, Shutdown, and Log Out?
 
-- Sleep is a power-saving mode that turns off components inside your computer but allows you to quickly return to where you left off.
-- Restart turns off the computer and immediately turn it back on. Sometimes this is required for major system updates or installations.
-- Shutdown simply turns off the computer.
-- Log Out will log you out of your account and allow you to log back in to any of your computer's user accounts.
+- `Sleep` is a power-saving mode that turns off components inside your computer but allows you to quickly return to where you left off.
+- `Restart` turns off the computer and immediately turn it back on. Sometimes this is required for major system updates or installations.
+- `Shutdown` simply turns off the computer.
+- `Log Out` will log you out of your account and allow you to log back in to any of your computer's user accounts.
 
 ##### What's the Notifications Center?
 

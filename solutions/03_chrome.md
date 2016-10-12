@@ -2,11 +2,11 @@
 
 ##### How do you install Chrome?
 
-Go to chrome.google.com and download it from there. Double click on the .dmg file in the downloads folder. Drag the Google Chrome icon into the applications folder to complete the install.
+Visit https://www.google.com/chrome/browser/desktop/index.html and click the "Download Chrome" button. Then, double-click on the `googlechrome.dmg` file in the `Downloads` folder. Finally, drag the Google Chrome icon into the Applications folder.
 
 ##### What two things can the address bar do?
 
-You can either type in the address for a website or just use it to search for something on Google.
+You can either type in a web address or type in some keywords to search on Google.
 
 ##### What's the keyboard shortcut for reloading a page?
 
@@ -18,15 +18,15 @@ Command ⌘ + D
 
 ##### Where is the bookmark bar located on the window?
 
-Beneath the address bar
+Beneath the address bar.
 
 ##### How do you add a folder to the bookmark bar?
 
-Right click and choose new folder
+Right click and choose New folder.
 
 ##### How do you delete an item from the bookmark bar?
 
-Right click and choose delete.
+Right click and choose Delete.
 
 ##### What's the keyboard shortcut for opening the preferences (i.e. settings)?
 

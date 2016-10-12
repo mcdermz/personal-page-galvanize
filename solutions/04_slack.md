@@ -74,7 +74,7 @@ Wrap two asterisks `*` around some or all of the message. For example, `Some of 
 
 ##### How do you format some message text as code?
 
-Wrap two back-ticks `\`` around some or all of the message. For example, `Some of this message is `var code = true;``.
+Wrap two back-ticks \` around some or all of the message. For example, `Some of this message is `var code = true;``.
 
 ##### How do you add an emoji reaction to a message?
 

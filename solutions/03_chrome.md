@@ -2,7 +2,7 @@
 
 ##### How do you install Chrome?
 
-Visit https://www.google.com/chrome/browser/desktop/index.html and click the "Download Chrome" button. Then, double-click on the `googlechrome.dmg` file in the `Downloads` folder. Finally, drag the Google Chrome icon into the Applications folder.
+Visit https://www.google.com/chrome/browser/desktop/index.html and click the "Download Chrome" button. Then, double-click on the `googlechrome.dmg` file in the `Downloads` folder. When the Finder window opens, drag the Google Chrome icon into the Applications folder.
 
 ##### What two things can the address bar do?
 

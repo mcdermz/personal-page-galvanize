@@ -42,4 +42,4 @@ Command ⌘ + N
 
 ##### What's the difference between an extension and an app?
 
-An extension enhances the functionality of the Chrome browser. An app is a standalone program.
+An extension enhances the functionality of the Chrome browser while an app is a standalone program.

@@ -2,7 +2,7 @@
 
 ## What's the keyboard shortcut for the following universal actions?
 
-| Actions          | Shortcut                |
+| Action           | Shortcut                |
 |------------------|-------------------------|
 | Cut              | Command ⌘ + X           |
 | Copy             | Command ⌘ + C           |
@@ -14,25 +14,13 @@
 
 ## What's the keyboard shortcut for the following application actions?
 
-##### Switch to the next application
-
-Command ⌘ + Tab
-
-##### Switch to the next window
-
-Command ⌘ + `
-
-##### Close a window
-
-Command ⌘ + W
-
-##### Quit the application
-
-Command ⌘ + Q
-
-##### Open the preferences
-
-Command ⌘ + ,
+| Action                         | Shortcut        |
+|--------------------------------|-----------------|
+| Switch to the next application | Command ⌘ + Tab |
+| Switch to the next window      | Command ⌘ + `   |
+| Close a window                 | Command ⌘ + W   |
+| Quit the application           | Command ⌘ + Q   |
+| Open the preferences           | Command ⌘ + ,   |
 
 ## What's the keyboard shortcut for the following document actions?
 

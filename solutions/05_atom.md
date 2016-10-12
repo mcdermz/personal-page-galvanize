@@ -4,21 +4,21 @@
 
 ##### How do you install the Atom application?
 
-Go to atom.io. The browser will automatically detect your operating system and you can download the appropriate version for your computer. Open the downloaded zip file from your downloads folder and drag the Atom icon into your applications folder.
+Visit https://atom.io/ and click the "Download for Mac" button. Then, double-click on the `atom-mac.zip` file in the `Downloads` folder and drag the Atom icon into the `Applications` folder.
 
 ##### How do you install Atom's shell commands?
 
-From the menu bar at the top, select "Atom" and then select "Install Shell Commands"
+From the menu bar at the top of the screen, click "Atom" and then click the "Install Shell Commands" menu item.
 
 ## Configuring Atom
 
 ##### How do you open Atom's preferences?
 
-Select "Atom" from the menu bar at the top of the screen and choose "Preferences"
+Click "Atom" from the menu bar at the top of the screen and click the "Preferences" menu item.
 
 ##### What are core settings?
 
-Atom's settings which affect behavior unrelated to text editing.
+Atom's settings that affect behavior unrelated to text editing.
 
 ##### What's the keybinding for the find-and-replace:show command?
 

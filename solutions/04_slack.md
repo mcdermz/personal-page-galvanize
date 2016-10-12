@@ -78,35 +78,37 @@ Wrap two back-ticks \`, which is left of the 1 key, around some or all of the me
 
 ##### How do you add an emoji reaction to a message?
 
-Hover your cursor over the message you want to react to. An add emoji symbol will appear on the right hand side of the screen. Then you can choose from the available emoji that pop up.
+To add a reaction to a message, hover your cursor over it and an emoji symbol will appear on the righthand side. Then, choose an emoji from the list that pops up.
 
 ## Notifications
 
 ##### What are the ways you can receive a notification?
 
-By default you receive a notification when someone mentions your Slack username, when you get a direct message or when someone uses one of your designated highlight words. You get a pop-up message and a sound notification by default.
+1. When someone mentions your Slack username in a channel.
+1. When someone sends you a direct message.
+1. When someone uses one of your designated highlight words.
 
 ##### What's a highlight word?
 
-A word you designate that you want to be notified about when it is mentioned.
+A word that you can designate to be notified about when it's mentioned in a channel.
 
 ##### How do you adjust the notification settings of a channel?
 
-Click the dropdown arrow next to the channel name and select "channel notification preferences"
+Click the channel name at the top of the main conversation section to open the channel's menu. Then, click the "Notification preferences" menu item.
 
 ##### How do you mute a channel?
 
-Under channel notification preferences there is a check box that says "mute this channel". Or type /mute into the message bar.
+Click the channel name at the top of the main conversation section to open the channel's menu. Then, click the "Mute channel" menu item.
 
 ##### How do you activate Do Not Disturb mode?
 
-Click on the alarm bell icon next to the team name. You can activate Do Not Disturb for a few minutes or several hours.
+Click on the alarm bell icon next to the Slack team name at the top of the leftmost sidebar. Then, click on one of the snooze times.
 
 ## Files
 
 ##### How do you upload a file to a channel or direct message?
 
-Simply drag the file over the channel or direct message window and drop it.
+Simply drag and drop the file in the main conversation section of a channel or direct message.
 
 ##### What happens to a file's permissions when it's shared?
 
@@ -116,20 +118,20 @@ Files shared in Slack keep their original permissions.
 
 ##### What type of content is searchable?
 
-Everything on Slack including messages, files (including their contents) and posts from integrations.
+Every public post on Slack including messages, files (including their contents), and messages from integrations.
 
 ##### What are search modifiers?
 
-They are keywords that are used to help pinpoint exactly what you are looking for by narrowing down who sent the file, which channel you want to search in, etc.
+Search modifiers are keywords that are used to help pinpoint exactly what you're looking for by narrowing down who sent the file, which channel you want to search in, etc.
 
 ##### What does the from: search modifier do?
 
-It modifies who the sender of the message/file was.
+It filters the search to a specific sender of the message/file was.
 
 ##### What does the in: search modifier do?
 
-It modifies which channel or direct message you want to search in.
+It filters the search to a specific channel or direct message.
 
 ##### What does starring a message or file do?
 
-It adds the message/file to the starred list making it much easier to find later. You can also use the search modifier "has:star" to only search through starred items.
+It adds the message or file to the starred list making it much easier to find later. You can also use the search modifier "has:star" to only search through starred items.

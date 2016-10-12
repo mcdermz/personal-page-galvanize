@@ -16,7 +16,9 @@ If you've ordered a laptop through us, please coordinate with your campus on the
 
 ### Self-assessment
 
-Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. Once you're finished, take a moment to complete the following tasks.
+Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/04_slack.md) and see how you faired.
+
+Once you've checked your answers, take a moment to complete the following tasks.
 
 1. Update your profile to include your full name and a headshot photo.
 1. Introduce yourself in your cohort's channel.

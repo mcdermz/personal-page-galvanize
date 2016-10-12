@@ -18,7 +18,7 @@ Click "Atom" from the menu bar at the top of the screen and click the "Preferenc
 
 ##### What are core settings?
 
-Atom's settings that affect behavior unrelated to text editing.
+Settings for Atom that affect its behavior unrelated to text editing.
 
 ##### What's the keybinding for the find-and-replace:show command?
 
@@ -26,19 +26,19 @@ Command ⌘ + F
 
 ##### Where can you find hints for some of the keybindings?
 
-There are hints next to the options in the dropdown menus from the menu bar at the top of the screen. You can also search for it in the command palette.
+The keybinding hints are next to the many of the menu items in the menu bar at the top of the screen.
 
 ##### What's the command palette?
 
-It is where you can search for and run available commands. It is accessed by hitting Shift ⇧ + Command ⌘ + p.
+The command palette allows you to search for and run available commands. It's accessed by hitting Shift ⇧ + Command ⌘ + P.
 
 ##### What are Atom packages?
 
-Atom at its core is extremely lightweight so it relies on packages to take care of the majority of its functionality. These packages control everything from the find and replace action to the tree view to the language syntax highlighting.
+Atom packages handle the majority of its functionality. These packages control everything from its project tree view to its find and replace to its language-specific syntax highlighting. Most of Atom's functionality is contained within a package.
 
 ##### What's a community package?
 
-A community package is a package developed by someone in the broader Atom community as opposed to a package officially released by Atom.
+A community package is a package developed by someone in the broader Atom community as opposed to a package developed by the Atom team.
 
 ##### What's a core package?
 
@@ -46,19 +46,19 @@ A core package is one of the packages that ships with Atom.
 
 ##### Where can you find additional settings for a package?
 
-By clicking on the package description in the package manager.
+First, open the "Preferences" window by press the Command ⌘ + , keys. Then, click on the "Packages" tab in the leftmost sidebar. Finally, click on the "Settings" button next to a package. You can tweak the settings of both core and community packages.
 
 ##### How can you install a community package?
 
-Click on the Install tab in the Settings menu. Each community package has a blue install button next to it.
+First, open the "Preferences" window by press the Command ⌘ + , keys. Then, click on the "Install" tab in the leftmost sidebar. Search for a package by name and click on the "Install" button next to it.
 
 ##### What's a UI theme?
 
-A UI theme styles the tabs, status bar, tree view, and dropdown.
+A UI theme styles Atom's UI components like its tabs, status bar, tree view, and dropdown.
 
 ##### What's a Syntax theme?
 
-A Syntax theme styles the text inside the editor.
+A Syntax theme styles the text inside Atom's editor.
 
 ##### How do you download and install an update for Atom and its core packages?
 

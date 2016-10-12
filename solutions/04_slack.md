@@ -70,11 +70,11 @@ You and up to eight other people.
 
 ##### How do you format some message text in bold?
 
-Wrap two asterisks `*` around some or all of the message. E.g. Some of this message \*will be bold\*.
+Wrap two asterisks `*` around some or all of the message. E.g. \*bold message\*
 
 ##### How do you format some message text as code?
 
-Wrap two back-ticks \` around some or all of the message. E.g. Some of this message is \`var code = true;\`.
+Wrap two back-ticks \`, which is left of the 1 key, around some or all of the message. E.g. \`var code = true;\`
 
 ##### How do you add an emoji reaction to a message?
 

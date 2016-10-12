@@ -8,17 +8,17 @@ Go to atom.io. The browser will automatically detect your operating system and y
 
 ##### How do you install Atom's shell commands?
 
-From the menu bar at the top, select “Atom" and then select “Install Shell Commands"
+From the menu bar at the top, select "Atom" and then select "Install Shell Commands"
 
 ## Configuring Atom
 
 ##### How do you open Atom's preferences?
 
-Select “Atom” from the menu bar at the top of the screen and choose “Preferences"
+Select "Atom" from the menu bar at the top of the screen and choose "Preferences"
 
 ##### What are core settings?
 
-Atom’s settings which affect behavior unrelated to text editing.
+Atom's settings which affect behavior unrelated to text editing.
 
 ##### What's the keybinding for the find-and-replace:show command?
 
@@ -72,11 +72,11 @@ Atom will notify you of an update with a notification in the bottom right of the
 
 ##### How do you open a file in Atom?
 
-You can just click on File in the menu bar at the top and then select Open (the keyboard shortcut is Command ⌘ + O). Alternatively, you can use the command line by navigating to your project folder and typing in “atom name-of-file” to open your file.
+You can just click on File in the menu bar at the top and then select Open (the keyboard shortcut is Command ⌘ + O). Alternatively, you can use the command line by navigating to your project folder and typing in "atom name-of-file" to open your file.
 
 ##### How do you open a folder in Atom?
 
-You can use File -> Open for a folder or using the command line you can navigate to that folder and type, “atom .” to open the folder in Atom.
+You can use File -> Open for a folder or using the command line you can navigate to that folder and type, "atom ." to open the folder in Atom.
 
 ##### How do you create a new file in Atom?
 

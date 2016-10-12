@@ -4,63 +4,65 @@
 
 ##### What's Slack?
 
-A messaging application for teams designed to bring all of your messaging together in one place. It integrates with a lot of commonly used web tools.
+Slack is a messaging application for teams that's designed to bring all of your messaging together in one place. It integrates with many commonly used web-based tools like Google Drive, GitHub, and Trello.
 
 ##### Why is Slack so useful for teams?
 
-Conversations are organized into channels that can be created for any department, project, office location, etc. It’s easy to share files. Everything posted is searchable
+Conversations are organized into channels. A channel can be created for any department, project, office location, etc. Additionally, it's easy to share files and to search for any that was posted.
 
 ##### How do you install the Slack application?
 
-Go to slack.com/downloads and download the mobile or desktop app.
+Visit https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12 and download the application from the App Store.
 
 ##### What's Galvanize's Slack team URL?
 
-gstudent.slack.com
+https://gstudent.slack.com/messages
 
 ## Channels
 
 ##### What's your cohort's Slack channel?
 
-(Check your welcome email)
+Check your welcome email. It follows the pattern of `gXX_YYYY` where `XX` is your cohort number and `YYYY` is your cohort campus.
 
 ##### How do you discover and join existing channels?
 
-Click on the word “Channels” in the lefthand column to see the full list of available public channels. When you select a specific channel, you’ll get a preview of that channel and you can click the join button to join the channel. You can leave a channel at any point in time.
+Click on the word "Channels" in the lefthand sidebar to see the full list of available public channels.
+
+When you select a specific channel, you'll see a preview of that channel. When you're ready, click the "Join Channel" button to join the channel. You can leave a channel at any time.
 
 ##### What's the #general channel?
 
-Every member of your team is automatically a member of the general channel. It’s used for company-wide announcements.
+Every user account that's connected to the same Slack team is automatically a member of the `#general` channel. Typically, it's used for team-wide announcements.
 
 ##### What's a starred channel?
 
-A starred channel is a channel that you have selected to always appear at the top of the channel list.
+A starred channel is a channel that you have selected to always appear at the top of the channel list on the lefthand sidebar.
 
 ##### How do you create a channel?
 
-When you are browsing the full list of available channels, there is a green button you can select that says “new channel” (if the administrator has set it up so you can create channels).
+When you're browsing the full list of available channels, click on "New channel" button. This only works if the team administrator has given your user account permissions to create channels.
 
 ##### How do you leave a channel?
 
-When you’re in a channel, click on the channel name and you will see a dropdown menu with “leave channel” on the list.
+When you're in a channel, click on the channel name at the top of the main conversation section and you'll see a dropdown menu. Click the "Leave channel" menu item to leave the channel.
 
 ##### What's the benefit of using a public channel?
 
-Everyone can view the conversation and collaborate. The contents are publicly searchable.
+Anyone can view the conversation and collaborate. The content of all public channels are publicly searchable.
 
 ##### What's the benefit of using a private channel?
 
-You can discuss sensitive or confidential topics that won’t be searchable by people outside the channel.
+You can discuss sensitive or confidential topics that won't be accessible or searchable by people outside the channel.
 
 ## Messages
 
 ##### How do you message someone in a channel?
 
-You mention them with @username.
+You mention them with `@username` in the message.
 
 ##### How do you send a direct message?
 
-Just select their name from the “direct messages” list and type your message.
+Select their username from the "Direct messages" list in the leftmost sidebar. Then, type your message to that person.
 
 ##### How many people can be part of a group direct message?
 
@@ -68,11 +70,11 @@ You and up to eight other people.
 
 ##### How do you format some message text in bold?
 
-Put your text between * ex. \*Bold\*
+Wrap two asterisks `*` around some or all of the message. For example, `Some of this message *will be bold*`.
 
 ##### How do you format some message text as code?
 
-Put your text between \` ex. \`Code\`
+Wrap two back-ticks `\`` around some or all of the message. For example, `Some of this message is `var code = true;``.
 
 ##### How do you add an emoji reaction to a message?
 
@@ -90,11 +92,11 @@ A word you designate that you want to be notified about when it is mentioned.
 
 ##### How do you adjust the notification settings of a channel?
 
-Click the dropdown arrow next to the channel name and select “channel notification preferences"
+Click the dropdown arrow next to the channel name and select "channel notification preferences"
 
 ##### How do you mute a channel?
 
-Under channel notification preferences there is a check box that says “mute this channel”. Or type /mute into the message bar.
+Under channel notification preferences there is a check box that says "mute this channel". Or type /mute into the message bar.
 
 ##### How do you activate Do Not Disturb mode?
 
@@ -130,4 +132,4 @@ It modifies which channel or direct message you want to search in.
 
 ##### What does starring a message or file do?
 
-It adds the message/file to the starred list making it much easier to find later. You can also use the search modifier “has:star” to only search through starred items.
+It adds the message/file to the starred list making it much easier to find later. You can also use the search modifier "has:star" to only search through starred items.

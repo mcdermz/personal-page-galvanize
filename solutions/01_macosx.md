@@ -54,7 +54,7 @@ It means the application is currently running. The dot will go away once you qu
 
 A menu that's available by clicking the apple icon in the top left corner of the screen. It's always present no matter which application is running. Also, it's how you access information about your Mac, start the System Preferences application, and restart, shutdown, sleep, or log off the computer.
 
-##### What information is available when selecting "About This Mac”?
+##### What information is available when selecting "About This Mac"?
 
 The operating system version and details about the computer like its processor, memory, graphics card, and the serial number.
 

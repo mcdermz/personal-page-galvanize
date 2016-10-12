@@ -2,7 +2,7 @@
 
 ##### How do you install Chrome?
 
-Visit https://www.google.com/chrome/browser/desktop/index.html and click the "Download Chrome" button. Then, double-click on the `googlechrome.dmg` file in the `Downloads` folder. When the Finder window opens, drag the Google Chrome icon into the Applications folder.
+Visit https://www.google.com/chrome/browser/desktop/index.html and click the "Download Chrome" button. Then, double-click on the `googlechrome.dmg` file in the `Downloads` folder. When the Finder window opens, drag the Google Chrome icon into the `Applications` folder.
 
 ##### What two things can the address bar do?
 
@@ -22,11 +22,11 @@ Beneath the address bar.
 
 ##### How do you add a folder to the bookmark bar?
 
-Right click and choose New folder.
+Right click on the bookmark bar and choose New folder.
 
 ##### How do you delete an item from the bookmark bar?
 
-Right click and choose Delete.
+Right click on the bookmark bar and choose Delete.
 
 ##### What's the keyboard shortcut for opening the preferences (i.e. settings)?
 

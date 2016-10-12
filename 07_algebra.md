@@ -19,7 +19,7 @@ In this chapter, your objective is to demonstrate competency with the basics of 
 
 ### Assessment
 
-Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook.
+Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/07_algebra.md) and see how you faired.
 
 ### What is Algebra?
 

@@ -62,33 +62,34 @@ A Syntax theme styles the text inside Atom's editor.
 
 ##### How do you download and install an update for Atom and its core packages?
 
-Updates for Atom and the core packages are done automatically. You will be prompted to restart the application once it is done updating.
+Updates for Atom and its core packages will download automatically. When there's an update ready to be installed, you'll see a blue squirrel on the rightmost side of the bottom status bar. Clicking on the blue squirrel will prompt you to install the update. You'll need to restart Atom once it's done updating.
 
 ##### How do you download and install an update for community packages?
 
-Atom will notify you of an update with a notification in the bottom right of the screen. Go to the Updates tab in the Settings menu to install the necessary updates.
+Updates for Atom's community packages will **not** download automatically. You'll see a message regarding the number of community packages that can be updated on the rightmost side of the bottom status bar. Clicking on the message will prompt you to download and install any updates. You don't need to restart Atom once it's done updating.
 
 ## Using Atom
 
 ##### How do you open a file in Atom?
 
-You can just click on File in the menu bar at the top and then select Open (the keyboard shortcut is Command ⌘ + O). Alternatively, you can use the command line by navigating to your project folder and typing in "atom name-of-file" to open your file.
+Click on "File" menu at the top of the screen and then click on the "Open" menu item. The keyboard shortcut is Command ⌘ + O. Alternatively, you can run the `atom path/to/file` command in the Terminal application to open the file.
 
 ##### How do you open a folder in Atom?
 
-You can use File -> Open for a folder or using the command line you can navigate to that folder and type, "atom ." to open the folder in Atom.
+Click on "File" menu at the top of the screen and then click on the "Open" menu item. The keyboard shortcut is Command ⌘ + O. Alternatively, you can run the `atom .` command in the Terminal application to open the current folder.
 
 ##### How do you create a new file in Atom?
 
-Click on File -> New File or use the keyboard shortcut (Command ⌘ + N).
+Click on "File" menu at the top of the screen and then click on the "New file" menu item. The keyboard shortcut is Command ⌘ + N.
 
 ##### How do you change the language grammar of a file?
 
-By using the keyboard shortcut (Control ⌃ + Shift ⇧ + L) or by clicking on the language name in the bottom right hand corner and selecting the new language from the list that appears.
+1. Use the Control ⌃ + Shift ⇧ + L keyboard shortcut.
+1. Click on the language name on the right side of the bottom status bar and select the new language from the list that appears.
 
 ##### How does Atom automatically detect the language grammar of a file?
 
-Once you save the file and give it an extension (.js, .html, .css, etc.) then Atom is able to automatically detect the language.
+Once you save the file with an extension (e.g. `.js`, `.html`, `.css`, etc.), Atom is able to automatically detect the language.
 
 ##### What's the keyboard shortcut to jump to a line number?
 
@@ -124,12 +125,12 @@ Command ⌘ + Shift ⇧ + F.
 
 ##### What's a snippet?
 
-Snippets allow you to automatically create code using shortcuts. You type in a keyword and hit tab and it outputs the full code.
+Snippets allow you to automatically create code using shortcuts. You type in a keyword, press the Tab key, and the snippet replaces the originally typed keyword with actual code.
 
 ##### What does the log + Tab snippet do in the JavaScript language grammar?
 
-It creates console.log()
+It replaces the keyword with `console.log()`.
 
 ##### What does the html + Tab snippet do in the HTML language grammar?
 
-It outputs the boilerplate structure for an html page including tags for html, head, and body.
+It replaces the keyword with a boilerplate HTML page structure that includes the `<html>`, `<head>`, and `<body>` tags.

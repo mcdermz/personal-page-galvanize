@@ -1,4 +1,4 @@
-#### [⇐ Previous](macosx.md) | [Next ⇒](chrome.md)
+#### [⇐ Previous](macos.md) | [Next ⇒](chrome.md)
 
 ## Keyboard Shortcuts
 
@@ -6,7 +6,7 @@
 
 A **keyboard shortcut** is a series of one or more keys that when pressed at the same time will trigger an application or operating system action. Simply put, using keyboard shortcuts instead of the trackpad or mouse will make you a more productive web developer. For example, imagine that a single keyboard shortcut could save you 3 seconds of unnecessary moving and clicking the pointer. It might not seem like much, but if performed 20 times per day, you'd save yourself 6 hours over the course of one year. And that's just one keyboard shortcut!
 
-In this chapter, your objective is to demonstrate competency with the most common keyboard shortcuts on Mac OS X. To complete this objective, please follow along with the video found below and complete the self-assessment at the end of this chapter. If you're already familiar with Mac OS X keyboard shortcuts, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
+In this chapter, your objective is to demonstrate competency with the most common keyboard shortcuts on macOS. To complete this objective, please follow along with the video found below and complete the self-assessment at the end of this chapter. If you're already familiar with macOS keyboard shortcuts, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
 
 If you've ordered a laptop through us, please coordinate with your campus on the earliest date it's available for pickup. Also, you may want to re-watch this once you obtain it.
 
@@ -76,8 +76,8 @@ What's the keyboard shortcut for the following screenshot actions?
 
 ### Conclusion
 
-Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the most common keyboard shortcuts on Mac OS X. Take a moment to pat yourself on the back. :)
+Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the most common keyboard shortcuts on macOS. Take a moment to pat yourself on the back. :)
 
-#### [⇐ Previous](macosx.md) | [Next ⇒](chrome.md)
+#### [⇐ Previous](macos.md) | [Next ⇒](chrome.md)
 
 [keyboard-shortcuts]: https://www.youtube.com/watch?v=AdMuZses96Q

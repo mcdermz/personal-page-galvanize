@@ -1,4 +1,4 @@
-# Mac OS X Solutions
+# macOS Solutions
 
 ## The Finder
 
@@ -147,6 +147,6 @@ In the Time Machine section.
 
 The place to download free and paid applications for your computer that have been approved by Apple. These applications are generally considered very safe.
 
-##### Where can you download updates for applications and Mac OS X itself?
+##### Where can you download updates for applications and macOS itself?
 
 In the Updates tab if the App Store.

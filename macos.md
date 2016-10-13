@@ -1,24 +1,24 @@
 #### [⇐ README](README.md) | [Next ⇒](shortcuts.md)
 
-## Mac OS X
+## macOS
 
 **Duration:** About 2 hours
 
-At Galvanize, we teach web development using **Mac OS X**, the Unix-based operating systems from Apple. While other operating systems are certainly proficient at the task of web development, we've found that Mac OS X uniquely blends both the graphical and command line interfaces together into an integrated, easy-to-learn development environment.
+At Galvanize, we teach web development using **macOS**, the Unix-based operating systems from Apple. While other operating systems are certainly proficient at the task of web development, we've found that macOS uniquely blends both the graphical and command line interfaces together into an integrated, easy-to-learn development environment.
 
-In this chapter, your objective is to demonstrate competency with Mac OS X's graphical interface. Don't worry about the command line interface for now; you'll focus on gaining competency with it throughout the in-person training. To complete this objective, please follow along with the video found below and complete the self-assessment at the end of this chapter. If you're already familiar with Mac OS X, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
+In this chapter, your objective is to demonstrate competency with macOS's graphical interface. Don't worry about the command line interface for now; you'll focus on gaining competency with it throughout the in-person training. To complete this objective, please follow along with the video found below and complete the self-assessment at the end of this chapter. If you're already familiar with macOS, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
 
 If you've ordered a laptop through us, please coordinate with your campus on the earliest date it's available for pickup. Also, you may want to re-watch this once you obtain it.
 
-**TIP:** While this video demonstrates usage of an older version Mac OS X called Yosemite, the information is not outdated.
+**TIP:** While this video demonstrates usage of an older version macOS called Yosemite, the information is not outdated.
 
-[Learn the Mac in Under 90 Minutes 2015 Yosemite Edition][learn-macosx]
+[Learn the Mac in Under 90 Minutes 2015 Yosemite Edition][learn-macos]
 
-[![](images/macosx.png)][learn-macosx]
+[![](images/macos.png)][learn-macos]
 
 ### Self-assessment
 
-Take a moment to think about how you would answer the following questions. Then write down both the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/macosx.md) and see how you faired.
+Take a moment to think about how you would answer the following questions. Then write down both the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/macos.md) and see how you faired.
 
 #### The Finder
 
@@ -67,12 +67,12 @@ Take a moment to think about how you would answer the following questions. Then 
 #### The App Store
 
 1. What's the App Store?
-1. Where can you download updates for applications and Mac OS X itself?
+1. Where can you download updates for applications and macOS itself?
 
 ### Conclusion
 
-Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the graphical interface of Mac OS X. You're well on your way to becoming a professional web developer.
+Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the graphical interface of macOS. You're well on your way to becoming a professional web developer.
 
 #### [⇐ README](README.md) | [Next ⇒](shortcuts.md)
 
-[learn-macosx]: https://www.youtube.com/watch?v=wSPisJXyjso
+[learn-macos]: https://www.youtube.com/watch?v=wSPisJXyjso

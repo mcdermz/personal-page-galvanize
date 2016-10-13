@@ -1,4 +1,4 @@
-#### [⇐ Previous](bonus.md) | [Next ⇒](macosx.md)
+#### [⇐ Previous](bonus.md) | [Next ⇒](macos.md)
 
 ## Galvanize Web Development Immersive Precourse
 
@@ -18,7 +18,7 @@ Though it might take you less time, please allocate at least 42 hours to complet
 
 | Chapters                                      | Duration           |
 |-----------------------------------------------|--------------------|
-| [Chapter 1: Mac OS X](macosx.md)              | About 2 hours      |
+| [Chapter 1: macOS](macos.md)                  | About 2 hours      |
 | [Chapter 2: Keyboard Shortcuts](shortcuts.md) | About 30 minutes   |
 | [Chapter 3: Google Chrome](chrome.md)         | About 30 minutes   |
 | [Chapter 4: Slack](slack.md)                  | About 1 hour       |
@@ -50,7 +50,7 @@ While the title may suggest otherwise, this book is for anyone who wants to lear
 
 You can pick up JavaScript for Kids from a number of bookstores, though you'll receive a **40% discount** by using the `JAVASCRIPTKIDS40` coupon code when purchasing directly through [No Starch Press][javascript-kids].
 
-#### [⇐ Previous](bonus.md) | [Next ⇒](macosx.md)
+#### [⇐ Previous](bonus.md) | [Next ⇒](macos.md)
 
 [contact]: mailto:fs.all@galvanize.com
 [genius]: https://www.apple.com/retail/geniusbar/

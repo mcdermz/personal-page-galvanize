@@ -10,7 +10,7 @@ In this chapter, your objective is to demonstrate competency with macOS's graphi
 
 If you've ordered a laptop through us, please coordinate with your campus on the earliest date it's available for pickup. Also, you may want to re-watch this video once you obtain it.
 
-**TIP:** While this video demonstrates usage of an older version macOS called Yosemite, the information is not outdated.
+**TIP:** While this video demonstrates usage of an older version macOS called Yosemite, the information is not terribly outdated.
 
 [Learn the Mac in Under 90 Minutes 2015 Yosemite Edition][learn-macos]
 

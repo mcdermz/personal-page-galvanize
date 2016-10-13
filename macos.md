@@ -8,7 +8,7 @@ At Galvanize, we teach web development using **macOS**, the Unix-based operating
 
 In this chapter, your objective is to demonstrate competency with macOS's graphical interface. Don't worry about the command line interface for now; you'll focus on gaining competency with that during the in-person training. To complete this objective, please follow along with the video found below and complete the self-assessment at the end of this chapter. If you're already familiar with macOS, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
 
-If you've ordered a laptop through us, please coordinate with your campus on the earliest date it's available for pickup. Also, you may want to re-watch this once you obtain it.
+If you've ordered a laptop through us, please coordinate with your campus on the earliest date it's available for pickup. Also, you may want to re-watch this video once you obtain it.
 
 **TIP:** While this video demonstrates usage of an older version macOS called Yosemite, the information is not outdated.
 

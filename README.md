@@ -1,6 +1,6 @@
 #### [⇐ Previous](bonus.md) | [Next ⇒](macosx.md)
 
-## Galvanize Web Development Precourse
+## Galvanize Web Development Immersive Precourse
 
 Welcome to Galvanize's Web Development Immersive!
 

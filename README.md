@@ -46,7 +46,7 @@ Most of this precourse uses high-quality learning resources available free of ch
 
 We've found that **JavaScript for Kids** approaches the first steps of learning JavaScript the right way—building things from scratch. In order to complete the precourse chapter on JavaScript, you'll need to pick up this book.
 
-While the title may suggest otherwise, this book is for anyone who wants to learn JavaScript for the first time. It's designed to be kid friendly, but it can serve as a programming book for beginners of all ages. In the spirit of the "For Dummies" series and the "Idiot's Guide" series, JavaScript for Kids approaches the topic of writing JavaScript as if the reader has little to no background in it.
+While the title may suggest otherwise, this book is for anyone who wants to learn JavaScript for the first time. It's designed to be kid friendly, but it can serve as a programming book for beginners of all ages. In the spirit of the "For Dummies" and the "Idiot's Guide" series, JavaScript for Kids approaches the topic of writing JavaScript as if the reader has little to no background in it.
 
 You can pick up JavaScript for Kids from a number of bookstores, though you'll receive a **40% discount** by using the `JAVASCRIPTKIDS40` coupon code when purchasing directly through [No Starch Press][javascript-kids].
 

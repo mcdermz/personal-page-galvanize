@@ -38,7 +38,7 @@ This precourse assumes you're proficient at reading, writing, and listening to E
 * Has plenty of free hard drive space and memory
 * Can reliably connect to wireless networks
 
-If your computer is not up to the task, we recommend that you make an appointment with a service professional like an [Apple Genius Representative][genius] right away.
+If your computer is not up to the task, we recommend that you make an appointment with an [Apple Genius Representative][genius] right away.
 
 ## Materials
 

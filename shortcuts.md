@@ -8,7 +8,7 @@ A **keyboard shortcut** is a series of one or more keys that when pressed at the
 
 In this chapter, your objective is to demonstrate competency with the most common keyboard shortcuts on macOS. To complete this objective, please follow along with the video found below and complete the self-assessment at the end of this chapter. If you're already familiar with macOS keyboard shortcuts, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
 
-If you've ordered a laptop through us, please coordinate with your campus on the earliest date it's available for pickup. Also, you may want to re-watch this once you obtain it.
+If you've ordered a laptop through us, please coordinate with your campus on the earliest date it's available for pickup. Also, you may want to re-watch this video once you obtain it.
 
 [25 Basic Mac Keyboard Shortcuts][keyboard-shortcuts]
 

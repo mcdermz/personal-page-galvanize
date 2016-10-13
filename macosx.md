@@ -1,4 +1,4 @@
-#### [⇐ README](README.md) | [Next ⇒](02_shortcuts.md)
+#### [⇐ README](README.md) | [Next ⇒](shortcuts.md)
 
 ## Mac OS X
 
@@ -18,7 +18,7 @@ If you've ordered a laptop through us, please coordinate with your campus on the
 
 ### Self-assessment
 
-Take a moment to think about how you would answer the following questions. Then write down both the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/01_macosx.md) and see how you faired.
+Take a moment to think about how you would answer the following questions. Then write down both the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/macosx.md) and see how you faired.
 
 #### The Finder
 
@@ -73,6 +73,6 @@ Take a moment to think about how you would answer the following questions. Then 
 
 Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the graphical interface of Mac OS X. You're well on your way to becoming a professional full stack developer.
 
-#### [⇐ README](README.md) | [Next ⇒](02_shortcuts.md)
+#### [⇐ README](README.md) | [Next ⇒](shortcuts.md)
 
 [learn-macosx]: https://www.youtube.com/watch?v=wSPisJXyjso

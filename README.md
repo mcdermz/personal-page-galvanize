@@ -1,4 +1,4 @@
-#### [⇐ Previous](09_bonus.md) | [Next ⇒](01_macosx.md)
+#### [⇐ Previous](bonus.md) | [Next ⇒](macosx.md)
 
 ## Galvanize Full Stack Precourse
 
@@ -16,17 +16,17 @@ The Galvanize Full Stack Team
 
 Though it might take you less time, please allocate at least 42 hours to complete the precourse. Each chapter you complete will yield a huge return on your investment. Also, don't panic if you find yourself spending significantly more time than the recommended duration. Just [reach out][contact] and we'll help you get unstuck.
 
-| Chapters                                         | Duration           |
-|--------------------------------------------------|--------------------|
-| [Chapter 1: Mac OS X](01_macosx.md)              | About 2 hours      |
-| [Chapter 2: Keyboard Shortcuts](02_shortcuts.md) | About 30 minutes   |
-| [Chapter 3: Google Chrome](03_chrome.md)         | About 30 minutes   |
-| [Chapter 4: Slack](04_slack.md)                  | About 1 hour       |
-| [Chapter 5: Atom](05_atom.md)                    | About 1 hour       |
-| [Chapter 6: HTML & CSS](06_html_css.md)          | About 20 hours     |
-| [Chapter 7: Algebra Basics](07_algebra.md)       | About 2 hours      |
-| [Chapter 8: JavaScript](08_javascript.md)        | About 15 hours     |
-| [Chapter 9: Bonus](09_bonus.md)                  | Unlimited          |
+| Chapters                                      | Duration           |
+|-----------------------------------------------|--------------------|
+| [Chapter 1: Mac OS X](macosx.md)              | About 2 hours      |
+| [Chapter 2: Keyboard Shortcuts](shortcuts.md) | About 30 minutes   |
+| [Chapter 3: Google Chrome](chrome.md)         | About 30 minutes   |
+| [Chapter 4: Slack](slack.md)                  | About 1 hour       |
+| [Chapter 5: Atom](atom.md)                    | About 1 hour       |
+| [Chapter 6: HTML & CSS](html_css.md)          | About 20 hours     |
+| [Chapter 7: Algebra Basics](algebra.md)       | About 2 hours      |
+| [Chapter 8: JavaScript](javascript.md)        | About 15 hours     |
+| [Chapter 9: Bonus](bonus.md)                  | Unlimited          |
 
 ## Prerequisites
 
@@ -50,7 +50,7 @@ While the title may suggest otherwise, this book is for anyone who wants to lear
 
 You can pick up JavaScript for Kids from a number of bookstores, though you'll receive a **40% discount** by using the `JAVASCRIPTKIDS40` coupon code when purchasing directly through [No Starch Press][javascript-kids].
 
-#### [⇐ Previous](09_bonus.md) | [Next ⇒](01_macosx.md)
+#### [⇐ Previous](bonus.md) | [Next ⇒](macosx.md)
 
 [contact]: mailto:fs.all@galvanize.com
 [genius]: https://www.apple.com/retail/geniusbar/

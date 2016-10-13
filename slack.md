@@ -1,4 +1,4 @@
-#### [⇐ Previous](03_chrome.md) | [Next ⇒](05_atom.md)
+#### [⇐ Previous](chrome.md) | [Next ⇒](atom.md)
 
 ## Slack
 
@@ -16,7 +16,7 @@ If you've ordered a laptop through us, please coordinate with your campus on the
 
 ### Self-assessment
 
-Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/04_slack.md) and see how you faired.
+Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/slack.md) and see how you faired.
 
 Once you've checked your answers, take a moment to complete the following tasks.
 
@@ -75,7 +75,7 @@ Once you've checked your answers, take a moment to complete the following tasks.
 
 Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with Slack. Remember, everyone needs help from time to time. If you're feeling stuck, help is only a Slack message away.
 
-#### [⇐ Previous](03_chrome.md) | [Next ⇒](05_atom.md)
+#### [⇐ Previous](chrome.md) | [Next ⇒](atom.md)
 
 [slack]: https://slack.com/
 [slack-guides]: https://www.youtube.com/watch?v=9RJZMSsH7-g&list=PLWlXaxtQ7fUb1WqLJDqJFGQsAXU7CjoGz

@@ -1,4 +1,4 @@
-#### [⇐ Previous](04_slack.md) | [Next ⇒](06_html_css.md)
+#### [⇐ Previous](slack.md) | [Next ⇒](html_css.md)
 
 ## Atom
 
@@ -16,7 +16,7 @@ If you've ordered a laptop through us, please coordinate with your campus on the
 
 ### Self-assessment
 
-Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/05_atom.md) and see how you faired.
+Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/atom.md) and see how you faired.
 
 #### Installing Atom
 
@@ -63,7 +63,7 @@ Take a moment to think about how you would answer the following questions. Then 
 
 Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with Atom. You're now ready to build a website.
 
-#### [⇐ Previous](04_slack.md) | [Next ⇒](06_html_css.md)
+#### [⇐ Previous](slack.md) | [Next ⇒](html_css.md)
 
 [atom]: https://atom.io/
 [learn-atom]: https://www.youtube.com/watch?v=ErpALj-8l5M&list=PLl4aJLa4PetCQcCEL0FvCh3L1SVf-nNSU

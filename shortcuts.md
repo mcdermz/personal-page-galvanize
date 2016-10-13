@@ -1,4 +1,4 @@
-#### [⇐ Previous](01_macosx.md) | [Next ⇒](03_chrome.md)
+#### [⇐ Previous](macosx.md) | [Next ⇒](chrome.md)
 
 ## Keyboard Shortcuts
 
@@ -16,7 +16,7 @@ If you've ordered a laptop through us, please coordinate with your campus on the
 
 ### Self-assessment
 
-Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/02_shortcuts.md) and see how you faired.
+Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/shortcuts.md) and see how you faired.
 
 #### Universal
 
@@ -78,6 +78,6 @@ What's the keyboard shortcut for the following screenshot actions?
 
 Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the most common keyboard shortcuts on Mac OS X. Take a moment to pat yourself on the back. :)
 
-#### [⇐ Previous](01_macosx.md) | [Next ⇒](03_chrome.md)
+#### [⇐ Previous](macosx.md) | [Next ⇒](chrome.md)
 
 [keyboard-shortcuts]: https://www.youtube.com/watch?v=AdMuZses96Q

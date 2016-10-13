@@ -1,4 +1,4 @@
-#### [⇐ Previous](06_html_css.md) | [Next ⇒](08_javascript.md)
+#### [⇐ Previous](html_css.md) | [Next ⇒](javascript.md)
 
 ## Algebra Basics
 
@@ -19,7 +19,7 @@ In this chapter, your objective is to demonstrate competency with the basics of 
 
 ### Assessment
 
-Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/07_algebra.md) and see how you faired.
+Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/algebra.md) and see how you faired.
 
 ### What is Algebra?
 
@@ -127,6 +127,6 @@ Take a moment to think about how you would answer the following questions. Then 
 
 Congratulations! By completing the assessment, you've demonstrated a high degree of discipline and competency with the basics of algebra. You're ready to start building a dynamic website.
 
-#### [⇐ Previous](06_html_css.md) | [Next ⇒](08_javascript.md)
+#### [⇐ Previous](html_css.md) | [Next ⇒](javascript.md)
 
 [math-antics]: https://www.youtube.com/watch?v=NybHckSEQBI&index=1&list=PLUPEBWbAHUszT_GebJK23JHdd_Bss1N-G

@@ -1,4 +1,4 @@
-#### [⇐ Previous](05_atom.md) | [Next ⇒](07_algebra.md)
+#### [⇐ Previous](atom.md) | [Next ⇒](algebra.md)
 
 ## HTML & CSS
 
@@ -92,7 +92,7 @@ To help you write correct code, we recommend you use a **syntax validator**—a 
 
 Congratulations! By completing the assessment, you've demonstrated a high degree of discipline and competency with HTML and CSS. Take a moment to congratulate yourself for all of your hard work. :)
 
-#### [⇐ Previous](05_atom.md) | [Next ⇒](07_algebra.md)
+#### [⇐ Previous](atom.md) | [Next ⇒](algebra.md)
 
 [learn-html-css]: http://learn.shayhowe.com/html-css/building-your-first-web-page/
 [upload]: https://github.com/gSchool/fs-precourse/upload/personal

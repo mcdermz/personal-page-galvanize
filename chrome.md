@@ -1,4 +1,4 @@
-#### [⇐ Previous](02_shortcuts.md) | [Next ⇒](04_slack.md)
+#### [⇐ Previous](shortcuts.md) | [Next ⇒](slack.md)
 
 ## Google Chrome
 
@@ -16,7 +16,7 @@ If you've ordered a laptop through us, please coordinate with your campus on the
 
 ### Self-assessment
 
-Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/03_chrome.md) and see how you faired.
+Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/chrome.md) and see how you faired.
 
 - How do you install Chrome?
 - What two things can the address bar do?
@@ -34,7 +34,7 @@ Take a moment to think about how you would answer the following questions. Then 
 
 Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with Google Chrome. You're making great progress.
 
-#### [⇐ Previous](02_shortcuts.md) | [Next ⇒](04_slack.md)
+#### [⇐ Previous](shortcuts.md) | [Next ⇒](slack.md)
 
 [google-chrome]: https://www.google.com/chrome/browser/desktop/
 [intro-to-chrome]: https://www.youtube.com/watch?v=XphOoqHzTC0&t=15

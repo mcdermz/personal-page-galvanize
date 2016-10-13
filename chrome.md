@@ -4,7 +4,7 @@
 
 **Duration:** About 30 minutes
 
-[Google Chrome][google-chrome] is a web browser that's fast and secure. Though full stack developers use every web browser to test their creations, many choose Chrome as their primary one. It has a minimalistic user interface, supports the latest web standards, has great built-in developer tools, and is customizable with extensions.
+[Google Chrome][google-chrome] is a web browser that's fast and secure. Though web developers use every browser to test their creations, many choose Chrome as their primary one. It has a minimalistic user interface, supports the latest web standards, has great built-in developer tools, and is customizable with extensions.
 
 In this chapter, your objective is to demonstrate competency with Google Chrome. To complete this objective, please follow along with the video found below and complete the self-assessment at the end of this chapter. If you're already familiar with Chrome, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
 

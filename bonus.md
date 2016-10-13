@@ -32,7 +32,7 @@ Here are our suggestions on how to further level-up your developer chops before 
 
 #### Studying & Learning
 
-Very few students are able to breeze through our full stack program with minimal effort. The vast majority of students achieve their success through effective studying and learning techniques. The **Effective Studying and Learning** video series will help you develop and apply the same techniques used by highly successful students. With some practice, your ability to retain and apply of complex, full stack concepts will dramatically improve.
+Very few students are able to breeze through our web development immersive with minimal effort. The vast majority of students achieve their success through effective studying and learning techniques. The **Effective Studying and Learning** video series will help you develop and apply the same techniques used by highly successful students. With some practice, your ability to retain and apply of complex, web development concepts will dramatically improve.
 
 [Effective Studying and Learning][studying-learning]
 

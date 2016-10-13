@@ -4,7 +4,7 @@
 
 **Duration:** About 20 hours
 
-Hyper Text Markup Language, or **HTML**, is a language for describing the structure and content of a web page with syntax like `<p>Hello world</p>`. Cascading Style Sheets, or **CSS**, is a language for describing the style of a web page with syntax like `p { color: orange; }`. Together, they are two essential technologies for full stack web development. When mastered, full stack developers tend to prefer writing HTML and CSS code by hand over using tools like Adobe Dreamweaver because it gives them complete control over how web pages are structured and styled.
+Hyper Text Markup Language, or **HTML**, is a language for describing the structure and content of a web page with syntax like `<p>Hello world</p>`. Cascading Style Sheets, or **CSS**, is a language for describing the style of a web page with syntax like `p { color: orange; }`. Together, they are two essential technologies for web development. When mastered, web developers tend to prefer writing HTML and CSS code by hand over using tools like Adobe Dreamweaver because it gives them complete control over how web pages are structured and styled.
 
 In this chapter, your objective is to demonstrate competency with HTML and CSS. To complete this objective, please follow along with the tutorial found below and complete the assessment at the end of this chapter. If you're already familiar with HTML and CSS, you may be able to complete the assessment without reading the tutorial. Though, you may also learn a trick or two from it.
 
@@ -21,7 +21,7 @@ Your task is to use HTML and CSS to build a personal website for yourself. You'l
 When you're finished, we'd like to take a look at your work. Please use the following steps to submit your website.
 
 1. Scroll to the top of this page and click `Fork`.
-	* You may need to click your username to create the `Fork` on your account. 
+	* You may need to click your username to create the `Fork` on your account.
 	* `Forking` is a github concept that allows you to make an exact copy of a repository on your own account.
 
 1. On your `Fork` of this repo on GitHub, (Make sure your name is in the top left of the page.) click the **Upload Files** button
@@ -50,7 +50,7 @@ On the first page, describe who you are and where you come from. Tell us about y
 
 On the second page, describe where you're going in life and who you'll become. Tell us about your career goals, education goals, hopes, dreams, etc. For example:
 
-> I'm excited to start Galvanize and learn about full stack technologies like HTML, CSS, and JavaScript. I enrolled in the full stack immersive because I've always been fascinated by the web's ability to bring people together. After Galvanize, I would love to work for a social network company like Snapchat or OKCupid.
+> I'm excited to start Galvanize and learn about web development technologies like HTML, CSS, and JavaScript. I enrolled in the web development immersive because I've always been fascinated by the web's ability to bring people together. After Galvanize, I would love to work for a social network company like Snapchat or OKCupid.
 
 Oh, and somewhere on your website, include an animated GIF that illustrates how you feel about starting your new career. For example:
 

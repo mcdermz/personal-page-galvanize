@@ -4,7 +4,7 @@
 
 **Duration:** About 15 hours
 
-**JavaScript** is a high-level, dynamic, untyped, and interpreted programming language that's primarily used to change how a website looks and behaves when a user interacts with it. For this reason, JavaScript is an essential technology for full stack web developers and, therefore, the central focus of our in-person training.
+**JavaScript** is a high-level, dynamic, untyped, and interpreted programming language that's primarily used to change how a website looks and behaves when a user interacts with it. For this reason, JavaScript is an essential technology for web developers and, therefore, the central focus of our in-person training.
 
 In this chapter, your objective is to demonstrate familiarity with JavaScript. To complete this objective, please read the book **JavaScript for Kids** through chapter 8 and then complete the assessment at the end of this chapter. While the title may suggest otherwise, this book is for anyone who wants to learn JavaScript for the first time. It's designed to be kid friendly, but it can serve as a programming book for beginners of all ages. In the spirit of the "For Dummies" series and the "Idiot's Guide" series, JavaScript for Kids approaches the topic of writing JavaScript as if the reader has little to no background in it.
 

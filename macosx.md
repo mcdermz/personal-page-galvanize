@@ -4,7 +4,7 @@
 
 **Duration:** About 2 hours
 
-At Galvanize, we teach full stack development using **Mac OS X**, the Unix-based operating systems from Apple. While other operating systems are certainly proficient at the task of full stack development, we've found that Mac OS X uniquely blends both the graphical and command line interfaces together into an integrated, easy-to-learn development environment.
+At Galvanize, we teach web development using **Mac OS X**, the Unix-based operating systems from Apple. While other operating systems are certainly proficient at the task of web development, we've found that Mac OS X uniquely blends both the graphical and command line interfaces together into an integrated, easy-to-learn development environment.
 
 In this chapter, your objective is to demonstrate competency with Mac OS X's graphical interface. Don't worry about the command line interface for now; you'll focus on gaining competency with it throughout the in-person training. To complete this objective, please follow along with the video found below and complete the self-assessment at the end of this chapter. If you're already familiar with Mac OS X, you may be able to complete the self-assessment without watching the video. Though, you may also learn a trick or two from it.
 
@@ -71,7 +71,7 @@ Take a moment to think about how you would answer the following questions. Then 
 
 ### Conclusion
 
-Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the graphical interface of Mac OS X. You're well on your way to becoming a professional full stack developer.
+Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the graphical interface of Mac OS X. You're well on your way to becoming a professional web developer.
 
 #### [⇐ README](README.md) | [Next ⇒](shortcuts.md)
 

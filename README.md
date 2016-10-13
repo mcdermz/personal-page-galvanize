@@ -1,16 +1,16 @@
 #### [⇐ Previous](bonus.md) | [Next ⇒](macosx.md)
 
-## Galvanize Full Stack Precourse
+## Galvanize Web Development Precourse
 
-Welcome to Galvanize's Full Stack Immersive!
+Welcome to Galvanize's Web Development Immersive!
 
-You've been accepted into this program because we believe you have the potential to become an awesome full stack web developer. With our extraordinary team as your guide and our practical curriculum as your map, your journey toward mastery of this challenging yet rewarding craft begins right now.
+You've been accepted into this program because we believe you have the potential to become an awesome web developer. With our extraordinary team as your guide and our practical curriculum as your map, your journey toward mastery of this challenging yet rewarding craft begins right now.
 
-Like all journeys, preparation will directly affect your level of success in this course. You'll climb mountains of intricate and challenging concepts that'll test your grasp of the fundamentals of full stack web development. The better prepared you are for this course, the easier your climb to the top will be.
+Like all journeys, preparation will directly affect your level of success in this course. You'll climb mountains of intricate and challenging concepts that'll test your grasp of the fundamentals of web development. The better prepared you are for this course, the easier your climb to the top will be.
 
-To help you prepare, we've developed this precourse for you to complete before the first day of class. Each chapter will introduce a core concept that'll be invaluable to your journey toward mastery of full stack development. If you find yourself needing a bit of help with the precourse, as students often do, please don't hesitate to contact us via [email][contact] or on your cohort's Slack channel. Congratulations and welcome to your next adventure!
+To help you prepare, we've developed this precourse for you to complete before the first day of class. Each chapter will introduce a core concept that'll be invaluable to your journey toward mastery of web development. If you find yourself needing a bit of help with the precourse, as students often do, please don't hesitate to contact us via [email][contact] or on your cohort's Slack channel. Congratulations and welcome to your next adventure!
 
-The Galvanize Full Stack Team
+The Galvanize Web Development Immersive Team
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ If your computer is not up to the task, we recommend that you make an appointmen
 
 ## Materials
 
-Most of this precourse uses high-quality learning resources available free of charge on the Internet. When it comes to JavaScript, there are a ton of "learn to code" websites that provide safe coding sandboxes to test the waters. While these are great resources for learning the individual pieces of full stack development, we've found that students only begin to see how all the pieces fit together when they start building JavaScript-enhanced websites from scratch.
+Most of this precourse uses high-quality learning resources available free of charge on the Internet. When it comes to JavaScript, there are a ton of "learn to code" websites that provide safe coding sandboxes to test the waters. While these are great resources for learning the individual pieces of web development, we've found that students only begin to see how all the pieces fit together when they start building JavaScript-enhanced websites from scratch.
 
 We've found that **JavaScript for Kids** approaches the first steps of learning JavaScript the right way—building things from scratch. In order to complete the precourse chapter on JavaScript, you'll need to pick up this book.
 

@@ -4,7 +4,7 @@
 
 **Duration:** About 2 hours
 
-**Algebra** is the study of using variables to represent unknown values in a mathematical equation. Engineers, scientists, economists, and, of course, full stack developers use algebra to model the physical world and answer questions like:
+**Algebra** is the study of using variables to represent unknown values in a mathematical equation. Engineers, scientists, economists, and, of course, web developers use algebra to model the physical world and answer questions like:
 
 - What's the ideal curvature of a trumpet bell?
 - How much force does it take to throw a ball 50 meters?

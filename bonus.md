@@ -1,4 +1,4 @@
-#### [⇐ Previous](studying_learning.md) | [README ⇒](README.md)
+#### [⇐ Previous](javascript.md) | [README ⇒](README.md)
 
 ## Bonus
 
@@ -81,4 +81,4 @@ There are tons of keyboard of shortcuts to learn. For that, look into **shortcut
 
 [shortcutFoo]: https://www.shortcutfoo.com/
 
-#### [⇐ Previous](studying_learning.md) | [README ⇒](README.md)
+#### [⇐ Previous](javascript.md) | [README ⇒](README.md)

@@ -1,4 +1,4 @@
-#### [⇐ Previous](algebra.md) | [Next ⇒](bonus.md)
+#### [⇐ Previous](algebra.md) | [Next ⇒](studying_learning.md)
 
 ## JavaScript
 
@@ -49,7 +49,7 @@ Run the program often to make sure everything works as you expect. When you're f
 
 Congratulations! By completing the assessment, you've demonstrated a high degree of discipline and familiarity with JavaScript. Take a moment to congratulate yourself for all of your hard work. :)
 
-#### [⇐ Previous](algebra.md) | [Next ⇒](bonus.md)
+#### [⇐ Previous](algebra.md) | [Next ⇒](studying_learning.md)
 
 [javascript-kids]: https://www.nostarch.com/jsforkids
 [upload]: https://github.com/gSchool/fs-precourse/upload/hangman/

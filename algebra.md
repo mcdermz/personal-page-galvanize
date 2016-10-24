@@ -17,7 +17,7 @@ In this chapter, your objective is to demonstrate competency with the basics of 
 
 [![](images/algebra.png)][math-antics]
 
-### Assessment
+### Self-assessment
 
 Take a moment to think about how you would answer the following questions. Then write down the questions and your answers in a notebook. When you're done, check your answers against our [solutions](solutions/algebra.md) and see how you fared.
 
@@ -125,7 +125,7 @@ Take a moment to think about how you would answer the following questions. Then 
 
 ### Conclusion
 
-Congratulations! By completing the assessment, you've demonstrated a high degree of discipline and competency with the basics of algebra. You're ready to start building a dynamic website.
+Congratulations! By completing the self-assessment, you've demonstrated a high degree of discipline and competency with the basics of algebra. You're ready to start building a dynamic website.
 
 #### [⇐ Previous](html_css.md) | [Next ⇒](javascript.md)
 

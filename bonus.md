@@ -1,4 +1,4 @@
-#### [⇐ Previous](javascript.md) | [README ⇒](README.md)
+#### [⇐ Previous](studying_learning.md) | [README ⇒](README.md)
 
 ## Bonus
 
@@ -32,17 +32,7 @@ Here are our suggestions on how to further level-up your developer chops before 
 
 #### Studying & Learning
 
-Very few students are able to breeze through our web development immersive with minimal effort. The vast majority of students achieve their success through effective studying and learning techniques. The **Effective Studying and Learning** video series will help you develop and apply the same techniques used by highly successful students. With some practice, your ability to retain and apply of complex, web development concepts will dramatically improve.
-
-[Effective Studying and Learning][studying-learning]
-
-[![](images/studying_learning.png)][studying-learning]
-
-[studying-learning]: https://www.youtube.com/watch?v=5ad6grll-ak&index=1&list=PLx65qkgCWNJIBzsXii5b6hze09et4cu5n
-
-#### Flashcards
-
-Flashcards are an effective learning drill that aids in the memorization of new concepts. If you like the idea of making flashcards but don't want to carry them around, **Flashcard Hero** is a free flashcard app for Mac OS X and iOS. It supports building cards with both text and images, grouping cards by topics, testing your memory with the [Leitner system][leitner-system] of spaced repetition, and generating progress reports on how well you remember each card.
+Flashcards are an effective learning drill that aids in the memorization of new concepts. If you like the idea of making flashcards but don't want to carry them around, **Flashcard Hero** is a free flashcard app for macOS and iOS. It supports building cards with both text and images, grouping cards by topics, testing your memory with the [Leitner system][leitner-system] of spaced repetition, and generating progress reports on how well you remember each card.
 
 [Flashcard Hero][flashcard-hero]
 
@@ -50,21 +40,6 @@ Flashcards are an effective learning drill that aids in the memorization of new 
 
 [flashcard-hero]: https://itunes.apple.com/us/app/flashcard-hero-free/id726165621?mt=12
 [leitner-system]: https://en.wikipedia.org/wiki/Leitner_system
-
-#### Typing
-
-Being proficient in typing is incredibly important yet often overlooked. Being able to type faster means adding features and fixing bugs faster. The **Typing Speed Test** is a traditional typing test that measures your typing speed of common English words. Can you score faster than 70 words per minute? Take the test a couple of times and write down your average words per minute for each test. Then, periodically retake these tests and watch your scores climb!
-
-[Typing Speed Test][typing_speed_test]
-
-[![](images/typing_speed_test.png)][typing_speed_test]
-
-[typing.io][typing_io] is a typing speed test for developers. Can you score faster than 30 words per minute?
-
-[![](images/typing_io.png)][typing_io]
-
-[typing_io]: https://typing.io/
-[typing_speed_test]: http://typing-speed-test.aoeu.eu/?lang=en
 
 #### JavaScript
 
@@ -86,6 +61,14 @@ Similar to JavaScript, you'll be using HTML and CSS throughout the in-person tra
 
 [treehouse]: https://teamtreehouse.com/tracks/front-end-web-development
 
+#### Typing
+
+Quickly typing common English words is an important skill, but so is typing awkward programming characters. [typing.io][typing_io] is a typing speed test for developers that'll help you learn how to type these character faster. Take this test a few times and see if you can score faster than 30 words per minute.
+
+[![](images/typing_io.png)][typing_io]
+
+[typing_io]: https://typing.io/
+
 #### Keyboard shortcuts
 
 There are tons of keyboard of shortcuts to learn. For that, look into **shortcutFoo**. Most of their modules require payment, but there are a few free lessons for developer tools like Atom.
@@ -96,4 +79,4 @@ There are tons of keyboard of shortcuts to learn. For that, look into **shortcut
 
 [shortcutFoo]: https://www.shortcutfoo.com/
 
-#### [⇐ Previous](javascript.md) | [README ⇒](README.md)
+#### [⇐ Previous](studying_learning.md) | [README ⇒](README.md)

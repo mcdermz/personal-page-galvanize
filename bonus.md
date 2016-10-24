@@ -63,7 +63,9 @@ Similar to JavaScript, you'll be using HTML and CSS throughout the in-person tra
 
 #### Typing
 
-Quickly typing common English words is an important skill, but so is typing awkward programming characters. [typing.io][typing_io] is a typing speed test for developers that'll help you learn how to type these character faster. Take this test a few times and see if you can score faster than 30 words per minute.
+Quickly typing common English words is an important skill, but so is typing awkward programming characters. **typing.io** is a typing speed test for developers that'll help you learn how to type these character faster. Take this test a few times and see if you can score faster than 30 words per minute.
+
+[typing.io][typing_io]
 
 [![](images/typing_io.png)][typing_io]
 

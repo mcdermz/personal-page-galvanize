@@ -1,0 +1,153 @@
+/*******
+GENERAL/
+********/
+* {
+	margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+h1 {
+	font-family: 'Architects Daughter', sans-serif;
+	font-size: 3.5em;
+}
+
+h2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 1.2em;
+	line-height: 1.2em;
+	color: #FFA000
+
+}
+p {
+	font-size: 1.2em;
+	text-align: left;
+	justify-content: center;
+	margin: 20px, 0;
+	line-height: 1.2em;
+}
+
+
+/******
+BACKGROUNDS / COLORS
+******/
+body {
+	background-image: url("../assets/dark_wood.png");
+	background-repeat: round;
+	background-origin: center;
+	background-size: cover;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #FFCA28;
+}
+body a {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #FFCA28;
+}
+
+header {
+	background-image: url("../assets/body_texture.png");
+	color: #FFCA28;
+	align-items: center;
+}
+
+nav {
+	background-color: black;
+	color: #FFCA28;
+}
+
+
+
+/*******
+HEADING
+********/
+header {
+  float: left;
+  margin: 0 0 10px 0;
+  padding: 10px 0 0 0;
+  width: 100%;
+	text-align: center;
+}
+
+
+
+
+/**********
+NAVIGATION
+***********/
+nav {
+  text-align: center;
+  padding: 5px 0;
+  margin: 10px 0 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+
+}
+
+nav a {
+  font-family: 'Maven Pro', sans-serif;
+  padding: 15px 30px;
+	color: ##FFCA28;
+	font-size: 1.3em;
+}
+
+nav a.selected, nav a:hover {
+  color: #607D8B;
+}
+
+
+
+/*********
+FOOTER
+**********/
+footer {
+	margin-top: 50px;
+}
+
+.logo{
+	height: 150px;
+	width: 150px;
+}
+
+
+/*********
+PAGE: HOME
+**********/
+#aboutMe {
+	display: inline-block;
+}
+
+#homePic {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	max-width: 500px;
+	max-height: 500px;
+}
+
+
+
+/*********
+PAGE: FUTURE
+**********/
+#matrix {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	max-width: 500px;
+	max-length: 500px;
+}

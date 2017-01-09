@@ -219,7 +219,7 @@ True
 
 ##### Solve the equation `x³ = 216`.
 
-`x = 4`
+`x = 6`
 
 ## What Are Polynomials?
 
